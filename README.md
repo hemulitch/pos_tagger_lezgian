@@ -40,13 +40,13 @@ Enter a sentence in the web form, e.g., _За мад геждач._ (translation
 
 See a list of word–POS tag pairs, e.g.:
 
-За      PRN
+За - PRN
 
-мад    ADV
+мад - ADV
 
-геждач    VERB
+геждач - VERB
 
-.      PUNCT
+. - PUNCT
 
 #### Requirements
 
