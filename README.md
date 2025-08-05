@@ -14,7 +14,8 @@ cd train
 python3 train.py
 ```
 
-The trained model will be saved to `model`
+The trained model will be saved to `/model`
+(My model is available [here](https://drive.google.com/drive/folders/13oF1bNCERiaDqa1ukwX4yhdBQueVyrCi?usp=sharing)) 
 
 2. Run the web app
 
