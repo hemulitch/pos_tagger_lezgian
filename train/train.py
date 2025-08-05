@@ -51,7 +51,7 @@ def train_model():
                         use_rnn=False)
 
     trainer = ModelTrainer(tagger, corpus)
-    trainer.fine_tune(base_path='models_new', 
+    trainer.fine_tune(base_path='model', 
                   learning_rate=3e-5,
                   mini_batch_size=4, 
                   max_epochs=10,
