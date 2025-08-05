@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lezgian POS Tagger</title>
+</head>
+<body>
+    <h1>Enter your sentence:</h1>
+    <form method="post">
+        <input name="sentence" type="text" style="width: 300px;" value="{{ input_sentence if input_sentence else '' }}" />
+        <input type="submit" value="Predict"/>
+    </form>
+    {% if predictions %}
+        <h2>Predictions:</h2>
+        <ul>
+        {% for word, tag in predictions %}
+            <li><b>{{ word }}</b>: {{ tag }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
