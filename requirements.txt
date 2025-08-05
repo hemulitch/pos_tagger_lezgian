@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+flair
+jinja2
+torch
