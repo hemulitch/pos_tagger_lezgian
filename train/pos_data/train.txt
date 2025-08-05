@@ -1,0 +1,8371 @@
+Белижда	NOUN
+съезд	NOUN
+.	PUNCT
+
+Июлдиз	NOUN
+Белиждин	NOUN
+поселокда	NOUN
+"	PUNCT
+СССРдин	NOUN
+йис	NOUN
+"	PUNCT
+совхоздин	NOUN
+Культурадин	NOUN
+дворецда	NOUN
+лезгийрин	NOUN
+"	PUNCT
+Садвал	NOUN
+"	PUNCT
+тӀвар	NOUN
+ганвай	VERB
+гьеракатдин	NOUN
+съезд	NOUN
+кьиле	NOUN
+фена	VERB
+.	PUNCT
+
+Еке	ADJ
+зал	NOUN
+"	PUNCT
+Яшамишрай	VERB
+советрин	NOUN
+халкьарин	NOUN
+дуствал	NOUN
+"	PUNCT
+,	PUNCT
+"	PUNCT
+Яшамишрай	VERB
+лезги	ADJ
+халкьдин	NOUN
+садвал	NOUN
+"	PUNCT
+ва	CONJ
+маса	ADJ
+лозунгри	NOUN
+безетмишнавай	VERB
+.	PUNCT
+
+Съездда	NOUN
+иштиракун	VERB
+патал	POSTP
+Махачкъаладай	NOUN
+,	PUNCT
+Дербентдай	NOUN
+,	PUNCT
+Москвадай	NOUN
+,	PUNCT
+Бакудай	NOUN
+,	PUNCT
+Сумгаитдай	NOUN
+,	PUNCT
+Нальчикдай	NOUN
+,	PUNCT
+Ахцегь	NOUN
+,	PUNCT
+Кьурагь	NOUN
+,	PUNCT
+Дербент	NOUN
+,	PUNCT
+Хив	NOUN
+,	PUNCT
+Табасаран	NOUN
+,	PUNCT
+Къусар	NOUN
+,	PUNCT
+Къуба	NOUN
+,	PUNCT
+Хъачмас	NOUN
+,	PUNCT
+Къуткъашен	NOUN
+районрай	NOUN
+делегатар	NOUN
+атанвай	VERB
+.	PUNCT
+
+Залда	NOUN
+съезддин	NOUN
+делегатарни	NOUN
+мугьманар	NOUN
+касдилай	NOUN
+гзаф	ADV
+авай	COP
+.	PUNCT
+
+"	PUNCT
+Садвал	NOUN
+"	PUNCT
+гьерекатдин	NOUN
+съезд	NOUN
+Бакуда	NOUN
+цӀи	ADV
+ачухнавай	VERB
+"	PUNCT
+Хважанжан	NOUN
+"	PUNCT
+тӀвар	NOUN
+алай	COP
+издательстводин	NOUN
+редактор	NOUN
+,	PUNCT
+шаир	NOUN
+Изет	NOUN
+Шерифова	NOUN
+ачухна	VERB
+.	PUNCT
+
+Президиум	NOUN
+хкягъайдалай	VERB
+гуьгъуьниз	POSTP
+доклад	NOUN
+авун	VERB
+патал	POSTP
+гаф	NOUN
+Дагпединститутдин	NOUN
+профессор	NOUN
+Абдурагьимоваз	NOUN
+гана	VERB
+.	PUNCT
+
+Ада	PRN
+авур	VERB
+"	PUNCT
+Лезгистан	NOUN
+тарих	NOUN
+,	PUNCT
+делилар	NOUN
+,	PUNCT
+вакъиаяр	NOUN
+"	PUNCT
+докладдихъ	NOUN
+кӀватӀ	NOUN
+хьанвайбуру	VERB
+дикъетдивди	NOUN
+яб	NOUN
+акална	VERB
+.	PUNCT
+
+Докладчиди	NOUN
+тайин	ADJ
+делилрал	NOUN
+,	PUNCT
+рекъемрал	NOUN
+бинеламиш	NOUN
+хьуналди	VERB
+дегьзаманрилай	NOUN
+инихъ	POSTP
+лезги	ADJ
+халкь	NOUN
+фейи	VERB
+рекьел	NOUN
+,	PUNCT
+адан	PRN
+гьал	NOUN
+-	PUNCT
+агьвалдал	NOUN
+-	PUNCT
+яшайишдал	NOUN
+,	PUNCT
+культурадал	NOUN
+,	PUNCT
+экономикадал	NOUN
+,	PUNCT
+тарихдал	NOUN
+,	PUNCT
+искусстводал	NOUN
+,	PUNCT
+алай	COP
+вахтунда	NOUN
+чеб	PRN
+гьалун	VERB
+хцидаказ	ADV
+истемишзавай	VERB
+месэлайрал	NOUN
+кӀватӀ	VERB
+хьанвайбурун	VERB
+фикир	NOUN
+желбна	VERB
+.	PUNCT
+
+-	PUNCT
+Советрин	NOUN
+власть	NOUN
+жедалди	VERB
+,	PUNCT
+-	PUNCT
+лагьана	VERB
+ада	PRN
+,	PUNCT
+-	PUNCT
+чапхунчийрихъ	NOUN
+галаз	POSTP
+кьиле	NOUN
+фейи	VERB
+дявейри	NOUN
+гзаф	ADV
+лезгияр	NOUN
+телеф	VERB
+хьунал	VERB
+,	PUNCT
+халкьдин	NOUN
+руьгьдин	NOUN
+ва	CONJ
+материальный	ADJ
+культура	NOUN
+кӀватунал	VERB
+,	PUNCT
+кхьинрин	VERB
+,	PUNCT
+архитектурадин	NOUN
+памятникар	NOUN
+,	PUNCT
+девлетар	NOUN
+пуч	VERB
+хьунал	VERB
+гъана	VERB
+.	PUNCT
+
+Ихьтин	ADV
+еке	ADJ
+магьрумвилеризни	NOUN
+килиг	VERB
+тавуна	VERB
+халкьдилай	NOUN
+вичин	PRN
+хайи	ADJ
+чил	NOUN
+,	PUNCT
+руьгьдин	NOUN
+багьа	ADJ
+девлект	NOUN
+тир	COP
+чӀал	NOUN
+,	PUNCT
+адетар	NOUN
+,	PUNCT
+халкьдин	NOUN
+яратмишунар	VERB
+хуьз	VERB
+ва	CONJ
+несилрилай	NOUN
+несилрал	NOUN
+агакьариз	VERB
+алакьна	VERB
+.	PUNCT
+
+Гьа	PRN
+и	PRN
+кардай	NOUN
+чна	PRN
+адаз	PRN
+юкь	NOUN
+агъузна	VERB
+икрам	NOUN
+авуналди	VERB
+баркалла	INTJ
+лугьузва	VERB
+.	PUNCT
+
+Докладчиди	NOUN
+лезги	ADJ
+халкьдин	NOUN
+тарихда	NOUN
+чпиз	PRN
+чка	NOUN
+хьайи	VERB
+хейлин	ADJ
+маса	ADJ
+чӀулав	ADJ
+лекейриз	NOUN
+талукь	ADJ
+гзаф	ADV
+делиларни	NOUN
+гъана	VERB
+.	PUNCT
+
+Са	NUM
+чкадал	NOUN
+ленг	VERB
+хьана	VERB
+акъатай	VERB
+йисара	NOUN
+чи	PRN
+районрай	NOUN
+хейлин	ADJ
+хуьрерин	NOUN
+жемятар	NOUN
+вичин	PRN
+халкьдивай	NOUN
+яргъа	ADJ
+авай	COP
+районриз	NOUN
+куьчарна	VERB
+,	PUNCT
+абуру	PRN
+хеб	NOUN
+-	PUNCT
+мал	NOUN
+хуьзвай	VERB
+чӀурар	NOUN
+и	PRN
+кар	NOUN
+патал	POSTP
+маса	ADJ
+районрин	NOUN
+майишатриз	NOUN
+чара	NOUN
+авуна	VERB
+,	PUNCT
+Азербайжандин	NOUN
+институтра	NOUN
+кӀелзавай	VERB
+азербайжан	ADJ
+студентриз	NOUN
+стипендия	NOUN
+гудайла	VERB
+лезги	ADJ
+студентар	NOUN
+анра	NOUN
+кӀелунай	VERB
+чеб	PRN
+институтриз	NOUN
+гьакъи	NOUN
+гуниз	VERB
+мажбур	ADJ
+авуна	VERB
+.	PUNCT
+
+Амма	CONJ
+гьар	PRN
+са	NUM
+чӀуру	ADJ
+кардин	NOUN
+эхир	NOUN
+жедайвал	VERB
+,	PUNCT
+чи	PRN
+халкьдин	NOUN
+кьилел	NOUN
+атай	VERB
+бедбахтвилерин	NOUN
+эхирни	NOUN
+мукьвал	ADJ
+жезва	VERB
+.	PUNCT
+
+И	PRN
+йикъара	NOUN
+кьиле	NOUN
+фейи	VERB
+советрин	NOUN
+Союздин	NOUN
+коммунистрин	NOUN
+партиядин	NOUN
+съезддин	NOUN
+"	PUNCT
+Инсанпересвилин	NOUN
+,	PUNCT
+демократический	ADJ
+социализмдихъ	NOUN
+"	PUNCT
+кьил	NOUN
+ганвай	VERB
+программный	ADJ
+малуматда	NOUN
+къейднавайвал	VERB
+миллетри	NOUN
+та	POSTP
+чара	ADJ
+хьунал	VERB
+къведалди	VERB
+чпин	PRN
+кьисмет	NOUN
+чпи	PRN
+тайинарунин	VERB
+ихтияр	NOUN
+гьисаба	VERB
+кьунал	NOUN
+бинеламиш	VERB
+бинеламиш	VERB
+жезва	VERB
+.	PUNCT
+
+Ихьтин	ADV
+зурба	ADJ
+дегишвилер	NOUN
+,	PUNCT
+мумкинвилер	NOUN
+,	PUNCT
+гьелбетда	PART
+,	PUNCT
+перестройкадихъ	NOUN
+,	PUNCT
+дуьнья	NOUN
+цӀийикӀа	ADV
+туькӀуьр	VERB
+хъувунин	VERB
+советрин	NOUN
+государстводин	NOUN
+руководстводин	NOUN
+цӀийи	ADJ
+концепциядихъ	NOUN
+галаз	POSTP
+алакъалу	ADJ
+яз	COP
+арадал	NOUN
+атанвайди	VERB
+я	COP
+.	PUNCT
+
+Чна	PRN
+и	PRN
+кардал	NOUN
+еке	ADJ
+шадвал	NOUN
+ийизва	VERB
+ва	CONJ
+чи	PRN
+разивал	NOUN
+къалурзава	VERB
+.	PUNCT
+
+Стха	NOUN
+халкьарин	NOUN
+дуствилин	NOUN
+хзанда	NOUN
+аваз	COP
+жуван	PRN
+кьисмет	NOUN
+жува	PRN
+гьялдай	VERB
+мумкинвал	NOUN
+хьунилай	VERB
+еке	ADJ
+бахт	NOUN
+жедани	VERB
+мегер	PART
+?	PUNCT
+
+Съезддин	NOUN
+делегатри	NOUN
+доклад	NOUN
+разивилелди	NOUN
+кьабулна	VERB
+.	PUNCT
+
+Ахпа	ADV
+адан	PRN
+винел	POSTP
+рахунар	VERB
+кьиле	NOUN
+фена	VERB
+.	PUNCT
+
+Трибунадихъ	NOUN
+ДГУдин	NOUN
+профессор	NOUN
+Гюльмагомедов	NOUN
+(	PUNCT
+Махачкъала	NOUN
+шегьер	NOUN
+)	PUNCT
+,	PUNCT
+РСФСРдин	ADJ
+лайихлу	ADJ
+агроном	NOUN
+Эльдеров	NOUN
+,	PUNCT
+писатель	NOUN
+Гьакимов	NOUN
+,	PUNCT
+шаир	NOUN
+Нагъиев	NOUN
+(	PUNCT
+Махачкъала	NOUN
+шегьер	NOUN
+)	PUNCT
+,	PUNCT
+писатель	NOUN
+Ризванов	NOUN
+журналист	NOUN
+Аскеров	NOUN
+,	PUNCT
+муаллим	NOUN
+Шерифов	NOUN
+(	PUNCT
+КцӀар	NOUN
+шегьер	NOUN
+ва	CONJ
+район	NOUN
+)	PUNCT
+,	PUNCT
+культработник	NOUN
+Гьажиев	NOUN
+(	PUNCT
+Къачмаз	NOUN
+район	NOUN
+)	PUNCT
+,	PUNCT
+режиссер	NOUN
+Регьимханов	NOUN
+(	PUNCT
+Сумгаит	NOUN
+шегьер	NOUN
+)	PUNCT
+,	PUNCT
+шаир	NOUN
+Саидгьасанов	NOUN
+,	PUNCT
+журналист	NOUN
+Атаев	NOUN
+(	PUNCT
+Махачкъала	NOUN
+шегьер	NOUN
+)	PUNCT
+,	PUNCT
+алишверишдин	NOUN
+работник	NOUN
+Мирзоев	NOUN
+(	PUNCT
+Ахцегь	NOUN
+район	NOUN
+)	PUNCT
+,	PUNCT
+ва	CONJ
+маса	ADJ
+юлдашар	NOUN
+экъечӀна	VERB
+.	PUNCT
+
+Абуру	PRN
+съезддал	NOUN
+гьялзавай	VERB
+месэлайрикай	NOUN
+чпин	PRN
+фикирар	NOUN
+лагьана	VERB
+.	PUNCT
+
+Рахунрилай	VERB
+гуьгъуьниз	POSTP
+делегатри	NOUN
+мандатный	ADJ
+комиссиядин	NOUN
+председателдихъ	NOUN
+яб	NOUN
+акална	VERB
+.	PUNCT
+
+Сад	NUM
+лагьай	ORD
+съезддал	NOUN
+лезги	ADJ
+халкьдин	NOUN
+гьерекатдин	NOUN
+касдикай	NOUN
+ибарат	ADJ
+правление	NOUN
+хкяна	VERB
+.	PUNCT
+
+Делегатри	NOUN
+"	PUNCT
+Садвал	NOUN
+"	PUNCT
+гьерекатдин	NOUN
+Устав	NOUN
+,	PUNCT
+Декларация	NOUN
+,	PUNCT
+"	PUNCT
+Лезги	ADJ
+халкьдиз	NOUN
+ва	CONJ
+советрин	NOUN
+Союздин	NOUN
+вири	PRN
+халкьариз	NOUN
+"	PUNCT
+эвер	NOUN
+гун	VERB
+,	PUNCT
+чи	PRN
+уьлкведа	NOUN
+халкьар	NOUN
+дуствилелди	NOUN
+яшамиш	VERB
+хьунин	VERB
+,	PUNCT
+лезги	ADJ
+халкь	NOUN
+сад	NUM
+хъувунин	VERB
+ва	CONJ
+адаз	PRN
+автономия	NOUN
+гунин	VERB
+патахъай	POSTP
+къарар	NOUN
+кьабулна	VERB
+.	PUNCT
+
+И	PRN
+къарар	NOUN
+абуру	PRN
+лазим	ADJ
+тир	COP
+идарайрин	NOUN
+вилик	POSTP
+эцигдайвал	VERB
+я	COP
+.	PUNCT
+
+Урусатдин	NOUN
+цуьк	NOUN
+.	PUNCT
+
+Иштиракзавай	VERB
+ксар	NOUN
+.	PUNCT
+
+Зина	NOUN
+Казакова	NOUN
+-	PUNCT
+зоотехник	NOUN
+,	PUNCT
+хуьруьн	NOUN
+майишатдин	NOUN
+илимрин	NOUN
+кандидат	NOUN
+,	PUNCT
+"	PUNCT
+Самур	NOUN
+"	PUNCT
+совхоздин	NOUN
+отделениедин	NOUN
+заведующий	NOUN
+.	PUNCT
+
+Аслан	NOUN
+,	PUNCT
+Али	NOUN
+-	PUNCT
+чубанар	NOUN
+.	PUNCT
+
+Мержан	NOUN
+-	PUNCT
+Забуран	NOUN
+вах	NOUN
+.	PUNCT
+
+Ажай	NOUN
+-	PUNCT
+Аслананни	NOUN
+Перидин	NOUN
+баде	NOUN
+.	PUNCT
+
+Варис	NOUN
+-	PUNCT
+ниси	NOUN
+ийидай	VERB
+заводдин	NOUN
+устӀар	NOUN
+.	PUNCT
+
+Забур	NOUN
+-	PUNCT
+зоотехник	NOUN
+,	PUNCT
+хуьруьн	NOUN
+майишатдин	NOUN
+илимрин	NOUN
+кандидат	NOUN
+.	PUNCT
+
+Рагьим	NOUN
+-	PUNCT
+хуьруьн	NOUN
+агъсакъал	NOUN
+.	PUNCT
+
+Совхоздин	NOUN
+рабочияр	NOUN
+-	PUNCT
+рушарни	NOUN
+гадаяр	NOUN
+.	PUNCT
+
+И	PRN
+комедияда	NOUN
+дагъдин	NOUN
+хуьре	NOUN
+намусдалди	NOUN
+зегьмет	NOUN
+чӀугвазвай	VERB
+жегьилрикай	NOUN
+,	PUNCT
+абурун	PRN
+гьерекатрикай	NOUN
+ва	CONJ
+алакъайрикай	NOUN
+суьгьбет	VERB
+физва	VERB
+.	PUNCT
+
+Жегьилри	NOUN
+чпин	PRN
+кьисмет	NOUN
+икӀ	CONJ
+гьялунал	VERB
+вири	PRN
+рази	ADJ
+жезва	VERB
+.	PUNCT
+
+Агъадихъ	ADV
+комедиядин	NOUN
+эхиримжи	ADJ
+шикил	NOUN
+гузва	VERB
+.	PUNCT
+
+Кьвед	NUM
+лагьай	ORD
+перде	NOUN
+.	PUNCT
+
+Вад	NUM
+лагьай	ORD
+шикил	NOUN
+.	PUNCT
+
+Яргъай	ADV
+зуьрнейринни	NOUN
+далдамдин	NOUN
+ванер	NOUN
+къведа	VERB
+,	PUNCT
+абур	PRN
+къвердавай	ADV
+мукьвал	ADJ
+жеда	VERB
+.	PUNCT
+
+Ура	INTJ
+!	PUNCT
+
+Свас	NOUN
+хтана	VERB
+!	PUNCT
+
+Ажай	NOUN
+гьинва	ADV
+?!	PUNCT
+
+Ажай	NOUN
+!	PUNCT
+
+Ажай	NOUN
+!	PUNCT
+
+За	PRN
+исятда	ADV
+адаз	PRN
+эверда	VERB
+...	PUNCT
+
+Акъваз	VERB
+,	PUNCT
+Пери	NOUN
+!	PUNCT
+
+Тади	ADJ
+къачумир	VERB
+.	PUNCT
+
+Рушар	NOUN
+!	PUNCT
+
+Ша	VERB
+,	PUNCT
+чна	PRN
+Ажай	NOUN
+къари	NOUN
+кутугай	ADJ
+къаршиламишда	VERB
+.	PUNCT
+
+За	PRN
+гъил	NOUN
+хкажна	VERB
+агъузун	VERB
+кумаз	CONJ
+,	PUNCT
+куьне	PRN
+"	PUNCT
+Дидедиз	NOUN
+салам	INTJ
+"	PUNCT
+мани	NOUN
+хкажда	VERB
+!	PUNCT
+
+Музыкадин	NOUN
+ванер	NOUN
+къвердавай	ADV
+мукьвал	ADJ
+жеда	VERB
+.	PUNCT
+
+Рушарин	NOUN
+юкьва	NOUN
+аваз	COP
+Зина	NOUN
+къведа	VERB
+.	PUNCT
+
+Адан	PRN
+гуьгъуьналлаз	ADV
+гадайрин	NOUN
+юкьва	NOUN
+аваз	COP
+Аслан	NOUN
+,	PUNCT
+Рагьим	NOUN
+ва	CONJ
+Али	NOUN
+къведа	VERB
+.	PUNCT
+
+Музыкадин	NOUN
+ванер	NOUN
+и	PRN
+арада	NOUN
+къати	ADJ
+я	COP
+.	PUNCT
+
+Ажай	NOUN
+къведа	VERB
+.	PUNCT
+
+Вариса	NOUN
+гъил	NOUN
+эляда	VERB
+ва	CONJ
+рушари	NOUN
+мани	NOUN
+лугьуда	VERB
+.	PUNCT
+
+Атана	VERB
+,	PUNCT
+атана	VERB
+диде	NOUN
+атана	VERB
+!	PUNCT
+
+Диде	NOUN
+атана	VERB
+,	PUNCT
+кӀвалер	NOUN
+ацӀана	VERB
+!	PUNCT
+
+Дидед	NOUN
+чина	PRN
+рагъ	NOUN
+ава	COP
+,	PUNCT
+рагъ	NOUN
+ава	COP
+!	PUNCT
+
+РикӀе	NOUN
+цуькведин	NOUN
+багъ	NOUN
+ава	COP
+,	PUNCT
+багъ	NOUN
+ава	COP
+!	PUNCT
+
+Къени	ADJ
+я	COP
+,	PUNCT
+къени	ADJ
+я	COP
+мехъер	NOUN
+авай	COP
+кӀвал	NOUN
+.	PUNCT
+
+Къени	ADJ
+я	COP
+,	PUNCT
+къени	ADJ
+я	COP
+свас	NOUN
+атай	VERB
+кӀвал	NOUN
+...	PUNCT
+
+Дидед	NOUN
+чина	PRN
+рагъ	NOUN
+ава	COP
+,	PUNCT
+рагъ	NOUN
+ава	COP
+!	PUNCT
+
+РикӀе	NOUN
+цуькведин	NOUN
+багъ	NOUN
+ава	COP
+,	PUNCT
+багъ	NOUN
+ава	COP
+!	PUNCT
+
+Манидин	NOUN
+ван	NOUN
+кьилеллаз	NOUN
+Ажай	NOUN
+кьуьлуьник	NOUN
+экечӀна	VERB
+,	PUNCT
+ада	PRN
+эмирдин	NOUN
+къайдада	NOUN
+вичин	PRN
+кьуьлуьник	NOUN
+Варисаз	NOUN
+эверда	VERB
+.	PUNCT
+
+Абуру	PRN
+кьуьл	NOUN
+ийида	VERB
+,	PUNCT
+гадайри	NOUN
+ва	CONJ
+рушари	NOUN
+гурлу	ADJ
+капар	NOUN
+яда	VERB
+,	PUNCT
+шадвилер	NOUN
+ийида	VERB
+.	PUNCT
+
+Идаз	PRN
+килиг	VERB
+!	PUNCT
+
+Ажай	NOUN
+къари	NOUN
+,	PUNCT
+майдан	NOUN
+вид	PRN
+я	COP
+!	PUNCT
+
+Кьуьлуьникай	NOUN
+хкечӀда	VERB
+.	PUNCT
+
+Лап	PART
+кьил	NOUN
+гижи	ADJ
+жедалди	VERB
+кьуьл	NOUN
+авуна	VERB
+...	PUNCT
+
+Зинадин	NOUN
+мукьув	POSTP
+фида	VERB
+.	PUNCT
+
+Сагърай	INTJ
+,	PUNCT
+чан	ADJ
+цуьк	NOUN
+!	PUNCT
+
+Вуна	PRN
+зи	PRN
+гаф	NOUN
+кьиле	NOUN
+тухвана	VERB
+!	PUNCT
+
+За	PRN
+вири	PRN
+элдиз	NOUN
+вун	PRN
+хъсан	ADJ
+руш	NOUN
+,	PUNCT
+я	COP
+гуьзел	ADJ
+тават	NOUN
+я	COP
+лугьуз	VERB
+хьана	VERB
+.	PUNCT
+
+Межлисда	NOUN
+авайбуруз	COP
+килигиз	VERB
+,	PUNCT
+килигиз	VERB
+.	PUNCT
+
+Бес	PART
+наврузбег	NOUN
+гьинва	ADV
+?!	PUNCT
+
+Забур	NOUN
+гьинва	ADV
+?!	PUNCT
+
+Варисаз	NOUN
+.	PUNCT
+
+Исятда	ADV
+,	PUNCT
+Варис	NOUN
+халу	NOUN
+,	PUNCT
+са	NUM
+тӀурфан	NOUN
+ина	ADV
+къурмиш	VERB
+жен	VERB
+хьи	PART
+,	PUNCT
+кӀвачер	NOUN
+кӀевиз	ADV
+икис	VERB
+!	PUNCT
+
+Наврузбегаз	NOUN
+мубарак	NOUN
+ийиз	VERB
+кӀанзава	VERB
+заз	PRN
+.	PUNCT
+
+Свас	NOUN
+инал	ADV
+алайла	COP
+,	PUNCT
+гада	NOUN
+авач	COP
+.	PUNCT
+
+Вач	VERB
+,	PUNCT
+ам	PRN
+галаз	POSTP
+хъша	NOUN
+!	PUNCT
+
+Заз	PRN
+чиз	VERB
+,	PUNCT
+къари	NOUN
+,	PUNCT
+чун	PRN
+вири	PRN
+са	NUM
+тарце	NOUN
+хьайила	VERB
+,	PUNCT
+вун	PRN
+маса	ADJ
+тарце	NOUN
+ава	COP
+...	PUNCT
+
+Вучиз	ADV
+зун	PRN
+маса	ADJ
+тарце	NOUN
+ава	COP
+?	PUNCT
+
+Ам	PRN
+вуч	PRN
+тар	NOUN
+я	COP
+зун	PRN
+авайди	COP
+,	PUNCT
+Валидин	NOUN
+хва	NOUN
+Варис	NOUN
+?	PUNCT
+
+Куьн	PRN
+авай	COP
+тар	NOUN
+гьим	PRN
+я	COP
+?!	PUNCT
+
+Эвленмиш	VERB
+хьанвайди	VERB
+Забур	NOUN
+туш	COP
+...	PUNCT
+
+Ви	PRN
+хтул	NOUN
+Аслан	NOUN
+я	COP
+!	PUNCT
+
+Вун	PRN
+дили	ADJ
+хьанва	VERB
+,	PUNCT
+Валидин	NOUN
+къарагуьн	NOUN
+!	PUNCT
+
+Вири	PRN
+мягьтел	ADJ
+жеда	VERB
+.	PUNCT
+
+Ажайни	NOUN
+аламат	ADJ
+хьанваз	VERB
+межлисдин	NOUN
+итимриз	NOUN
+килигда	VERB
+,	PUNCT
+абурун	PRN
+арада	POSTP
+Рагьим	NOUN
+аваз	COP
+аквада	VERB
+.	PUNCT
+
+За	PRN
+ваз	PRN
+,	PUNCT
+Ажай	NOUN
+,	PUNCT
+ви	PRN
+хтул	NOUN
+Аслан	NOUN
+эвленмиш	VERB
+хьунухь	VERB
+мубаракзава	VERB
+!	PUNCT
+
+Мубарак	NOUN
+хьуй	VERB
+ваз	PRN
+ви	PRN
+хтулдин	NOUN
+мехъер	NOUN
+,	PUNCT
+зи	PRN
+играми	ADJ
+хтул	NOUN
+Ажай	NOUN
+!	PUNCT
+
+Ял	NOUN
+кьунваз	VERB
+.	PUNCT
+
+И	PRN
+мехъер	NOUN
+нинди	PRN
+я	COP
+?	PUNCT
+
+Аквазва	VERB
+хьи	PART
+ваз	PRN
+,	PUNCT
+баде	NOUN
+,	PUNCT
+зиди	PRN
+я	COP
+.	PUNCT
+
+За	PRN
+минет	NOUN
+авуна	VERB
+,	PUNCT
+вунани	PRN
+фена	VERB
+заз	PRN
+свас	NOUN
+це	VERB
+лагьана	VERB
+.	PUNCT
+
+Зинадин	NOUN
+мукьув	ADV
+къведа	VERB
+.	PUNCT
+
+Къедлай	ADV
+им	PRN
+зи	PRN
+паб	NOUN
+,	PUNCT
+юлдаш	NOUN
+я	COP
+.	PUNCT
+
+ИкІ	CONJ
+ЗАГСдин	NOUN
+ктабрани	NOUN
+кхьенва	VERB
+...	PUNCT
+
+Вай	INTJ
+аллагь	NOUN
+!	PUNCT
+
+Инал	ADV
+зи	PRN
+япариз	NOUN
+вуч	PRN
+ванер	NOUN
+жезва	VERB
+?!	PUNCT
+
+Заз	PRN
+заваллу	ADJ
+ахвар	NOUN
+аквазвани	VERB
+?!	PUNCT
+
+Аман	INTJ
+аллагь	NOUN
+!	PUNCT
+
+Ахвар	NOUN
+туш	COP
+...	PUNCT
+
+Заз	PRN
+хьайи	VERB
+мусибат	NOUN
+аку	VERB
+,	PUNCT
+вахар	NOUN
+,	PUNCT
+рушар	NOUN
+?	PUNCT
+
+Я	PART
+эллер	NOUN
+зун	PRN
+дили	ADJ
+жезва	VERB
+!	PUNCT
+
+Ажай	NOUN
+кьил	NOUN
+кьуна	VERB
+ацукьда	VERB
+,	PUNCT
+ам	PRN
+Перидини	NOUN
+Мержана	NOUN
+кьада	VERB
+.	PUNCT
+
+Ажаял	NOUN
+гьалтна	VERB
+килигда	VERB
+.	PUNCT
+
+Ажай	NOUN
+бадедиз	NOUN
+пис	ADJ
+хьанва	VERB
+!	PUNCT
+
+Аквазвани	VERB
+,	PUNCT
+им	PRN
+куь	PRN
+зарафатдин	NOUN
+нетижа	NOUN
+я	COP
+!	PUNCT
+
+За	PRN
+квез	PRN
+гьикӀ	ADV
+лагьанай	VERB
+...	PUNCT
+
+Чан	ADJ
+руш	NOUN
+вуна	PRN
+эсиллагь	ADV
+фикирмир	VERB
+.	PUNCT
+
+Ажай	NOUN
+назлу	ADJ
+-	PUNCT
+назикрикай	NOUN
+туш	COP
+,	PUNCT
+адан	PRN
+чан	NOUN
+кьве	NUM
+къванцин	NOUN
+кӀаникни	POSTP
+акъатдач	VERB
+.	PUNCT
+
+Ажаян	NOUN
+мукьув	POSTP
+фена	VERB
+,	PUNCT
+адан	PRN
+япун	NOUN
+дувулдал	NOUN
+капаш	NOUN
+эцигда	VERB
+.	PUNCT
+
+Гьич	ADV
+са	NUM
+затӀни	NOUN
+хьанач	VERB
+.	PUNCT
+
+Ажая	NOUN
+шумуд	PRN
+залзалаяр	NOUN
+,	PUNCT
+шумуд	PRN
+дявеяр	NOUN
+,	PUNCT
+шумуд	PRN
+маргъалар	NOUN
+эхи	VERB
+авуна	VERB
+!	PUNCT
+
+Абурун	PRN
+тум	NOUN
+кьил	NOUN
+авач	COP
+...	PUNCT
+
+И	PRN
+мехъер	NOUN
+кеф	NOUN
+я	COP
+хьи	PART
+!	PUNCT
+
+Чкадилай	NOUN
+гадар	VERB
+жеда	VERB
+.	PUNCT
+
+Лал	ADJ
+хьухь	VERB
+къаралмиш	VERB
+Валидин	NOUN
+авара	NOUN
+!	PUNCT
+
+Къуй	PART
+аллагьди	NOUN
+ваз	PRN
+завал	VERB
+гурай	VERB
+,	PUNCT
+къарагуьн	NOUN
+!	PUNCT
+
+И	PRN
+дагъларни	NOUN
+ви	PRN
+русвагь	ADJ
+хьанвай	VERB
+кьилел	NOUN
+чӀур	VERB
+хьурай	VERB
+!	PUNCT
+
+Къузгъунри	NOUN
+тарашрай	VERB
+,	PUNCT
+мурдар	NOUN
+!	PUNCT
+
+За	PRN
+лагьайвал	VERB
+хьана	VERB
+,	PUNCT
+и	PRN
+къаридихъ	NOUN
+гьич	ADV
+са	NUM
+затӀни	NOUN
+жериди	VERB
+туш	COP
+...	PUNCT
+
+Вунни	PRN
+заз	PRN
+къедлай	ADV
+чара	NOUN
+кас	NOUN
+я	COP
+.	PUNCT
+
+Вакай	PRN
+хьайи	VERB
+веледни	NOUN
+заз	PRN
+кӀандач	VERB
+!	PUNCT
+
+Вири	PRN
+хуьруьв	NOUN
+зал	PRN
+хъуьруьнар	VERB
+ийиз	VERB
+тур	VERB
+мердимазар	ADJ
+хтул	NOUN
+заз	PRN
+акунани	VERB
+кӀандач	VERB
+!	PUNCT
+
+Ажай	NOUN
+дамах	NOUN
+гваз	COP
+,	PUNCT
+кьил	NOUN
+цава	NOUN
+кьуна	VERB
+,	PUNCT
+кӀвализ	NOUN
+хъфида	VERB
+.	PUNCT
+
+Адан	PRN
+гуьгъуьниз	POSTP
+Рагьим	NOUN
+ва	CONJ
+Варис	NOUN
+фида	VERB
+ва	CONJ
+абур	PRN
+гурара	NOUN
+акъвазда	VERB
+.	PUNCT
+
+Куьне	PRN
+хажалатар	NOUN
+ийимир	VERB
+,	PUNCT
+балаяр	NOUN
+.	PUNCT
+
+Межлисдин	NOUN
+шадвилер	NOUN
+давамара	VERB
+.	PUNCT
+
+Вири	PRN
+хъсан	ADJ
+куьтягь	VERB
+жеда	VERB
+.	PUNCT
+
+Рагьимни	NOUN
+Варис	NOUN
+кӀвализ	NOUN
+фида	VERB
+,	PUNCT
+межлисдин	NOUN
+итимар	NOUN
+мягьтел	ADJ
+яз	COP
+ракӀариз	NOUN
+килигиз	VERB
+хейлин	ADJ
+кисда	VERB
+.	PUNCT
+
+Мад	ADV
+къари	NOUN
+дили	ADJ
+жеда	VERB
+...	PUNCT
+
+Чиди	PRN
+мехъер	NOUN
+хьанач	VERB
+...	PUNCT
+
+Мехъерни	NOUN
+жеда	VERB
+,	PUNCT
+бегьем	ADV
+шадвилерни	NOUN
+.	PUNCT
+
+Ваз	PRN
+Рагьим	NOUN
+бубадин	NOUN
+аламатрикай	NOUN
+хабар	NOUN
+авач	COP
+.	PUNCT
+
+Ада	PRN
+чи	PRN
+баде	NOUN
+исятда	ADV
+цӀал	NOUN
+аватай	VERB
+мум	NOUN
+хьиз	CONJ
+хъуьтуьл	ADJ
+ийида	VERB
+!	PUNCT
+
+Ибур	PRN
+вири	PRN
+,	PUNCT
+ваз	PRN
+ва	CONJ
+эвленмиш	VERB
+хьанвай	VERB
+жегьилриз	NOUN
+мубаракар	NOUN
+ийиз	VERB
+атанвай	VERB
+инсанар	NOUN
+я	COP
+.	PUNCT
+
+Ибуруз	PRN
+гьуьрмет	NOUN
+ая	VERB
+!	PUNCT
+
+Вуна	PRN
+лугьузвайвал	VERB
+дуьз	ADJ
+я	COP
+,	PUNCT
+Рагьим	NOUN
+халу	NOUN
+.	PUNCT
+
+Амма	CONJ
+зун	PRN
+Вариса	NOUN
+бегьем	ADV
+алдатмишна	VERB
+.	PUNCT
+
+Вуна	PRN
+жегьилар	NOUN
+бейкеф	VERB
+ийимир	VERB
+,	PUNCT
+хтул	NOUN
+.	PUNCT
+
+Абур	PRN
+чи	PRN
+умудар	NOUN
+,	PUNCT
+чи	PRN
+гележег	NOUN
+я	COP
+.	PUNCT
+
+Вун	PRN
+къенин	ADJ
+межлисди	NOUN
+перишан	ADJ
+тавун	VERB
+лазим	ADJ
+я	COP
+,	PUNCT
+аксина	ADV
+,	PUNCT
+вун	PRN
+ада	PRN
+шад	ADJ
+авуна	VERB
+кӀанда	VERB
+.	PUNCT
+
+Вилер	NOUN
+ахъайна	VERB
+садра	PART
+килиг	VERB
+!	PUNCT
+
+Аслана	NOUN
+ви	PRN
+кӀвализ	NOUN
+цуьк	NOUN
+хьтин	PART
+руш	NOUN
+,	PUNCT
+свас	NOUN
+гъанва	VERB
+!	PUNCT
+
+Заз	PRN
+аквазва	VERB
+...	PUNCT
+
+Вуна	PRN
+жувак	PRN
+фикир	NOUN
+ая	VERB
+садра	PART
+.	PUNCT
+
+Чи	PRN
+йикъара	NOUN
+"	PUNCT
+хашперес	ADJ
+руш	NOUN
+,	PUNCT
+мусурман	ADJ
+руш	NOUN
+"	PUNCT
+лугьудай	VERB
+гафарихъ	NOUN
+гьич	PART
+са	NUM
+метлебни	NOUN
+амач	COP
+.	PUNCT
+
+Гьич	PART
+са	NUM
+метлебни	NOUN
+!	PUNCT
+
+Вилер	NOUN
+бегьем	ADV
+ахъа	ADJ
+ая	VERB
+.	PUNCT
+
+Вири	PRN
+инсанар	NOUN
+са	NUM
+хизан	NOUN
+хьана	VERB
+,	PUNCT
+чна	PRN
+цӀийи	ADJ
+ва	CONJ
+гуьзел	ADJ
+уьмуьр	NOUN
+туькӀуьрзава	VERB
+.	PUNCT
+
+Инсанар	NOUN
+,	PUNCT
+лагь	VERB
+кван	PART
+,	PUNCT
+за	PRN
+дуьз	ADJ
+лугьузвани	VERB
+,	PUNCT
+авачни	COP
+?!	PUNCT
+
+Дуьз	ADJ
+лугьузва	VERB
+!	PUNCT
+
+Чун	PRN
+ваз	PRN
+икьрар	NOUN
+я	COP
+,	PUNCT
+буба	NOUN
+!	PUNCT
+
+Дуьз	ADJ
+я	COP
+!	PUNCT
+
+Дуьз	ADJ
+я	COP
+,	PUNCT
+буба	NOUN
+!	PUNCT
+
+Квез	PRN
+мубарак	NOUN
+,	PUNCT
+мубарак	NOUN
+,	PUNCT
+играми	ADJ
+балаяр	NOUN
+!	PUNCT
+
+Вазни	PRN
+мубарак	NOUN
+,	PUNCT
+хтул	NOUN
+,	PUNCT
+мубарак	NOUN
+!	PUNCT
+
+Бахтлу	ADJ
+ужагъда	NOUN
+гьамиша	ADV
+эквер	NOUN
+,	PUNCT
+гьамиша	ADV
+мехъер	NOUN
+хьуй	VERB
+!	PUNCT
+
+Рагьиман	NOUN
+гуьгъуьнал	POSTP
+алаз	COP
+Асланазни	NOUN
+Зинадиз	NOUN
+Вариса	NOUN
+,	PUNCT
+Алиди	NOUN
+,	PUNCT
+Мержана	NOUN
+,	PUNCT
+Периди	NOUN
+,	PUNCT
+амай	COP
+рушарини	NOUN
+гадайри	NOUN
+мехъер	NOUN
+мубарак	NOUN
+ийида	VERB
+.	PUNCT
+
+Варис	NOUN
+Ажаян	NOUN
+мукьув	POSTP
+фида	VERB
+.	PUNCT
+
+Вазни	PRN
+мубарак	NOUN
+хьуй	VERB
+,	PUNCT
+играми	ADJ
+Ажай	NOUN
+!	PUNCT
+
+Икьван	ADV
+элдиз	NOUN
+масан	ADJ
+,	PUNCT
+икьван	ADV
+хъсан	ADJ
+инсан	NOUN
+Аслан	NOUN
+хвена	VERB
+чӀехи	ADJ
+авур	VERB
+адаз	PRN
+тербия	NOUN
+гайи	VERB
+ваз	PRN
+баркалла	INTJ
+,	PUNCT
+Ажай	NOUN
+!	PUNCT
+
+Гьурра	INTJ
+!	PUNCT
+
+Мубарак	NOUN
+!	PUNCT
+
+Мубарак	NOUN
+!	PUNCT
+
+Музыка	NOUN
+!	PUNCT
+
+Перде	NOUN
+агал	VERB
+жеда	VERB
+.	PUNCT
+
+Керекулни	NOUN
+жанавур	NOUN
+.	PUNCT
+
+Гатфарин	NOUN
+вахт	NOUN
+тир	COP
+.	PUNCT
+
+Таму	NOUN
+тара	NOUN
+пеш	NOUN
+ахъайна	VERB
+,	PUNCT
+кьуд	NUM
+пад	NOUN
+къацу	ADJ
+хьанвай	VERB
+.	PUNCT
+
+Тамал	NOUN
+къушари	NOUN
+ван	NOUN
+ацалднавай	VERB
+.	PUNCT
+
+Гьа	PRN
+и	PRN
+арада	NOUN
+,	PUNCT
+фадлай	ADJ
+недай	VERB
+затӀ-матӀ	NOUN
+жагъун	VERB
+тавунвай	VERB
+рехи	ADJ
+жанавур	NOUN
+,	PUNCT
+тамун	NOUN
+жигъирдай	NOUN
+тӀуз	POSTP
+,	PUNCT
+вич	PRN
+масабуруз	ADJ
+такурай	VERB
+лугьуз	VERB
+,	PUNCT
+яваш-яваш	ADV
+,	PUNCT
+инихъ-анихъ	ADV
+килигиз	VERB
+,	PUNCT
+виликди	ADV
+физвай	VERB
+.	PUNCT
+
+Заз	PRN
+акуна	VERB
+,	PUNCT
+заз	PRN
+акуна	VERB
+-	PUNCT
+гьарайна	VERB
+пипин	ADJ
+тарцин	NOUN
+кӀукӀни-кукӀва	NOUN
+ацукьнавай	VERB
+керекулди	NOUN
+.	PUNCT
+
+И	PRN
+керекул	NOUN
+акьван	PART
+гьахълуди	ADJ
+тир	COP
+хьи	PART
+,	PUNCT
+адакай	PRN
+чуьлдин	NOUN
+,	PUNCT
+тамун	NOUN
+гзаф	ADV
+гьайванриз	NOUN
+куьмек	NOUN
+хьанвай	VERB
+.	PUNCT
+
+Кис	VERB
+,	PUNCT
+мердимазар	ADJ
+,	PUNCT
+ваз	PRN
+аквазвачни	VERB
+зал	PRN
+алай	COP
+гьал	NOUN
+?	PUNCT
+
+Зи	PRN
+яцӀу	ADJ
+ратари	NOUN
+шуькӀуь	ADJ
+ратар	NOUN
+незва	VERB
+,	PUNCT
+зун	PRN
+фидайла	VERB
+гагь	ADV
+и	PRN
+пата	NOUN
+,	PUNCT
+гагь	ADV
+а	PRN
+пата	NOUN
+акьазва	VERB
+,	PUNCT
+лагьана	VERB
+жанавурди	NOUN
+.	PUNCT
+
+За	PRN
+ваз	PRN
+кис	VERB
+лугьузвачни	VERB
+,	PUNCT
+лагълагьчи	NOUN
+!	PUNCT
+
+Кис	VERB
+тавуртӀа	VERB
+,	PUNCT
+вавай	PRN
+заз	PRN
+вуч	PRN
+жеда	VERB
+?	PUNCT
+
+Зун	PRN
+вун	PRN
+хьтин	PART
+тарашчи	NOUN
+туш	COP
+.	PUNCT
+
+Ша	VERB
+,	PUNCT
+чун	PRN
+дуст	NOUN
+жен	VERB
+,	PUNCT
+керекул	NOUN
+.	PUNCT
+
+Завай	PRN
+гишила	ADV
+мад	ADV
+къекъвез	VERB
+жезмач	VERB
+.	PUNCT
+
+Зун	PRN
+инал	ADV
+акъвазин	VERB
+,	PUNCT
+вуна	PRN
+,	PUNCT
+фена	VERB
+,	PUNCT
+хуьруьн	NOUN
+уьруьшрилай	NOUN
+цӀар	NOUN
+илитӀа	VERB
+.	PUNCT
+
+Гьинал	ADV
+кас	NOUN
+галачиз	POSTP
+тек	ADJ
+мал	NOUN
+,	PUNCT
+тек	ADJ
+хеб	NOUN
+алатӀа	COP
+,	PUNCT
+заз	PRN
+хабар	NOUN
+це	VERB
+.	PUNCT
+
+Ви	PRN
+пайни	NOUN
+за	PRN
+рикӀелай	NOUN
+алуддач	VERB
+.	PUNCT
+
+рикӀяй	NOUN
+фикирна	VERB
+керекулди	NOUN
+.	PUNCT
+
+Амма	CONJ
+жанавурдиз	NOUN
+ада	PRN
+вич	PRN
+и	PRN
+икьрардал	NOUN
+рази	ADJ
+тирди	COP
+малумарна	VERB
+:	PUNCT
+АкӀ	ADV
+хьайила	VERB
+,	PUNCT
+зун	PRN
+хкведалди	VERB
+вун	PRN
+санизни	ADV
+фимир	VERB
+гьа	PART
+!	PUNCT
+
+Керекул	NOUN
+цавуз	NOUN
+хкаж	VERB
+хьана	VERB
+,	PUNCT
+хуьруьн	NOUN
+уьруьшрилай	NOUN
+цӀар	NOUN
+элкъуьрна	VERB
+,	PUNCT
+хтана	VERB
+.	PUNCT
+
+Фад	ADV
+,	PUNCT
+гьазур	ADJ
+хьухь	VERB
+,	PUNCT
+жанавур	NOUN
+.	PUNCT
+
+Жуван	PRN
+сарариз	NOUN
+къилав	VERB
+це	VERB
+.	PUNCT
+
+Заз	PRN
+касни	NOUN
+галачиз	POSTP
+чпин	PRN
+ихтиярдалди	NOUN
+векь	NOUN
+незвай	VERB
+лапагар	NOUN
+акунва	VERB
+.	PUNCT
+
+Абур	PRN
+гьинал	ADV
+ала	COP
+?	PUNCT
+хвеши	ADJ
+хьана	VERB
+,	PUNCT
+тадиз	ADV
+хабар	NOUN
+кьуна	VERB
+жанавурди	NOUN
+.	PUNCT
+
+За	PRN
+цавай	NOUN
+лув	NOUN
+гуда	VERB
+,	PUNCT
+вун	PRN
+зи	PRN
+гьараюнин	VERB
+ванцелди	NOUN
+ша	VERB
+.	PUNCT
+
+Жанавур	NOUN
+рази	ADJ
+хьана	VERB
+.	PUNCT
+
+Керекулди	NOUN
+,	PUNCT
+гьарайиз	VERB
+,	PUNCT
+цавай	NOUN
+лув	NOUN
+гана	VERB
+.	PUNCT
+
+Ахпа	POSTP
+,	PUNCT
+лапагар	NOUN
+авай	COP
+векьин	NOUN
+юкьвал	NOUN
+алай	COP
+мегъуьн	NOUN
+тарцин	NOUN
+кукӀваз	NOUN
+хкаж	VERB
+хьана	VERB
+,	PUNCT
+ада	PRN
+гьанлай	ADV
+гьарайиз	VERB
+башламишна	VERB
+.	PUNCT
+
+Ада	PRN
+,	PUNCT
+тфенг	NOUN
+къуьне	NOUN
+аваз	COP
+,	PUNCT
+и	PRN
+тарцин	NOUN
+кӀаник	POSTP
+акъвазнавай	VERB
+чубандин	NOUN
+фикир	NOUN
+вичел	PRN
+желбзавай	VERB
+.	PUNCT
+
+Керекулдин	NOUN
+сив	NOUN
+акъваззавачир	VERB
+.	PUNCT
+
+Ада	PRN
+чубандиз	NOUN
+хаталувиликай	NOUN
+хабар	NOUN
+гузвай	VERB
+.	PUNCT
+
+Ина	ADV
+вуч	PRN
+аватӀани	COP
+са	NUM
+кар	NOUN
+ава	COP
+.	PUNCT
+
+Белки	INTJ
+адаз	PRN
+жанавур	NOUN
+аквазватӀа	VERB
+?	PUNCT
+
+Чубанди	NOUN
+тадиз	ADV
+вичин	PRN
+хъуьчӀе	NOUN
+авай	COP
+тфенг	NOUN
+акъудна	VERB
+,	PUNCT
+гъилерал	NOUN
+вегьена	VERB
+,	PUNCT
+тарцин	NOUN
+далдадик	NOUN
+акъвазна	VERB
+,	PUNCT
+тамун	NOUN
+къерех	NOUN
+гуьзетиз	VERB
+башламишна	VERB
+.	PUNCT
+
+Керекулди	NOUN
+гьараюн	VERB
+давамарзавай	VERB
+.	PUNCT
+
+Ада	PRN
+жанавурдиз	NOUN
+:	PUNCT
+-	PUNCT
+Фад	ADV
+иниз	ADV
+ша	VERB
+,	PUNCT
+фад	ADV
+иниз	ADV
+ша	VERB
+!	PUNCT
+-	PUNCT
+чубандизни	NOUN
+:	PUNCT
+-	PUNCT
+Мукъаят	ADJ
+хьухь	VERB
+,	PUNCT
+мукъаят	ADJ
+хьухь	VERB
+,	PUNCT
+душман	NOUN
+къвезва	VERB
+!	PUNCT
+-	PUNCT
+лугьузвай	VERB
+.	PUNCT
+
+Са	NUM
+арадилай	NOUN
+жанавур	NOUN
+атана	VERB
+акъатна	VERB
+.	PUNCT
+
+Сифте	ADV
+ам	PRN
+тамукай	NOUN
+мукъаятвилелди	NOUN
+хипериз	NOUN
+килигна	VERB
+.	PUNCT
+
+Вилериз	NOUN
+кас-мас	NOUN
+такурла	VERB
+,	PUNCT
+ада	PRN
+виликди	ADV
+еримишна	VERB
+.	PUNCT
+
+Гьа	PRN
+и	PRN
+арада	NOUN
+тарцик	NOUN
+чуьнуьх	VERB
+хьанвай	VERB
+чубандин	NOUN
+тфенгни	NOUN
+акъатна	VERB
+.	PUNCT
+
+Угъри	NOUN
+жанавурдин	NOUN
+кьилел	NOUN
+вуч	PRN
+дуьшуьш	NOUN
+атанатӀа	VERB
+,	PUNCT
+квез	PRN
+хъсандиз	ADV
+акуна	VERB
+.	PUNCT
+
+Къарпузар	NOUN
+ни	PRN
+чуьнуьжзава	VERB
+?	PUNCT
+
+Дегь	ADJ
+замандин	NOUN
+зурба	ADJ
+тама	NOUN
+чи	PRN
+колхоздихъ	NOUN
+еке	ADJ
+белгенар	NOUN
+ава	COP
+.	PUNCT
+
+Инра	ADV
+,	PUNCT
+гьар	PRN
+йисуз	NOUN
+бустанар	NOUN
+цазва	VERB
+.	PUNCT
+
+И	PRN
+бустанра	NOUN
+къарпузар	NOUN
+,	PUNCT
+гатун	NOUN
+халияр	NOUN
+,	PUNCT
+афнияр	NOUN
+,	PUNCT
+буранар	NOUN
+цазва	VERB
+.	PUNCT
+
+А	PRN
+угъриди	NOUN
+,	PUNCT
+гьи	PRN
+вахтунда	NOUN
+къвезватӀани	VERB
+чидач	VERB
+,	PUNCT
+хъсан	ADJ
+чранвай	VERB
+къарпузар	NOUN
+жагъурна	VERB
+,	PUNCT
+абур	PRN
+я	COP
+бустанда	NOUN
+-	PUNCT
+чкадал	NOUN
+,	PUNCT
+я	COP
+тухвана	VERB
+лап	ADV
+мукьвал	ADJ
+алай	COP
+кулара	NOUN
+незва	VERB
+.	PUNCT
+
+Ингье	PART
+,	PUNCT
+пуд	NUM
+йиф	NOUN
+я	COP
+,	PUNCT
+за	PRN
+вил	NOUN
+кьванни	PART
+акьалнавач	VERB
+гьа	PRN
+вили	NOUN
+хуьзва	VERB
+,	PUNCT
+амма	CONJ
+завай	PRN
+угъри	NOUN
+кьаз	VERB
+жезвач	VERB
+хьи	PART
+,	PUNCT
+жезвач	VERB
+,	PUNCT
+-	PUNCT
+лагьана	VERB
+бустанчи	NOUN
+Букар	NOUN
+халуди	NOUN
+шикаят	NOUN
+авуна	VERB
+.	PUNCT
+
+Белки	INTJ
+кьуьзуь	ADJ
+хьуниз	VERB
+килигна	POSTP
+,	PUNCT
+зи	PRN
+вилериз	NOUN
+экв	NOUN
+аквазмач	VERB
+,	PUNCT
+вунни	PRN
+са	NUM
+кьве	NUM
+юкъуз	NOUN
+и	PRN
+бустанда	NOUN
+амукь	VERB
+,	PUNCT
+белки	INTJ
+а	PRN
+къариба	ADJ
+угъри	NOUN
+ваз	PRN
+акван	VERB
+...	PUNCT
+
+Зун	PRN
+Букар	NOUN
+халудин	NOUN
+кьилив	POSTP
+нисинлай	NOUN
+алатайдалай	VERB
+кьулухъ	POSTP
+ружани	NOUN
+гваз	COP
+атана	VERB
+.	PUNCT
+
+Чна	PRN
+зурба	ADJ
+са	NUM
+мегъуьн	NOUN
+таран	NOUN
+танда	NOUN
+,	PUNCT
+кьве	NUM
+еке	ADJ
+хилен	NOUN
+арада	POSTP
+эцигнавай	VERB
+кумада	NOUN
+чка	NOUN
+кьуна	VERB
+.	PUNCT
+
+Инлай	ADV
+вири	PRN
+бустан	NOUN
+капаллай	NOUN
+хьиз	CONJ
+аквазва	VERB
+.	PUNCT
+
+ГьикӀ	ADV
+хьана	VERB
+,	PUNCT
+халу	NOUN
+,	PUNCT
+вуна	PRN
+"	PUNCT
+сирлу	ADJ
+угъри	NOUN
+"	PUNCT
+кьунвачни	VERB
+?	PUNCT
+-	PUNCT
+хабар	NOUN
+кьуна	VERB
+за	PRN
+.	PUNCT
+
+Кьунвач	VERB
+.	PUNCT
+
+Заз	PRN
+ам	PRN
+акур	VERB
+хьиз	CONJ
+я	COP
+:	PUNCT
+ам	PRN
+инсан	NOUN
+туш	COP
+аквар	VERB
+гьаларай	NOUN
+,	PUNCT
+вагьши	ADJ
+гьайван	NOUN
+я	COP
+.	PUNCT
+
+Вуч	PRN
+я	COP
+?	PUNCT
+
+Бегьем	ADV
+кьатӀуз	VERB
+жедайвал	VERB
+акунач	VERB
+,	PUNCT
+хва	NOUN
+.	PUNCT
+
+Ам	PRN
+,	PUNCT
+ангье	PART
+,	PUNCT
+атӀа	PRN
+бурма	ADJ
+куларай	NOUN
+экъечӀна	VERB
+,	PUNCT
+-	PUNCT
+Букар	NOUN
+халуди	NOUN
+мерейрин	NOUN
+къалин	ADJ
+куллух	NOUN
+къалурна	VERB
+.	PUNCT
+
+Гуьзетин	VERB
+!	PUNCT
+
+Килигда	VERB
+чун	PRN
+...	PUNCT
+
+Исятда	ADV
+за	PRN
+ваз	PRN
+са	NUM
+хъсан	ADJ
+къарпуз	NOUN
+атӀуда	VERB
+.	PUNCT
+
+Хъсан	ADJ
+къарпуз	NOUN
+бустанчидиз	NOUN
+чида	VERB
+!	PUNCT
+
+Чна	PRN
+гьеле	ADV
+ширин	ADJ
+ширедай	NOUN
+ацӀанвай	VERB
+,	PUNCT
+сиве	NOUN
+чкӀана	VERB
+физвай	VERB
+кеврек	ADJ
+къарпуз	NOUN
+тӀуьна	VERB
+куьтягь	VERB
+хьанвачир	VERB
+,	PUNCT
+амма	CONJ
+Букар	NOUN
+халуди	NOUN
+,	PUNCT
+за	PRN
+гъил	NOUN
+эцяна	VERB
+,	PUNCT
+зи	PRN
+япал	NOUN
+кушкушна	VERB
+:	PUNCT
+
+Бустандиз	NOUN
+вил	NOUN
+вегь	VERB
+!	PUNCT
+
+Хъсандиз	ADV
+килиг	VERB
+!	PUNCT
+
+Тарарин	NOUN
+хъенар	NOUN
+яргъи	ADJ
+хьана	VERB
+бустандал	NOUN
+атуниз	VERB
+килигна	POSTP
+,	PUNCT
+ана	ADV
+хурушум	NOUN
+хьанва	VERB
+,	PUNCT
+гьавиляй	CONJ
+завай	PRN
+ам	PRN
+вуч	PRN
+вагьши	ADJ
+гьайван	NOUN
+ятӀа	COP
+,	PUNCT
+ерли	ADV
+кьатӀуз	VERB
+жезвач	VERB
+.	PUNCT
+
+Зунни	PRN
+бустанчи	NOUN
+Букар	NOUN
+"	PUNCT
+Им	PRN
+вуж	PRN
+я	COP
+эхир	PART
+?	PUNCT
+"	PUNCT
+-	PUNCT
+лугьуз	VERB
+фикиррик	NOUN
+кумаз	COP
+,	PUNCT
+атайди	VERB
+къарпузриз	NOUN
+гьахьна	VERB
+.	PUNCT
+
+Ада	PRN
+са	NUM
+къарпуз	NOUN
+кьенцӀикай	NOUN
+хкудна	VERB
+,	PUNCT
+ам	PRN
+тапас	NOUN
+геляна	VERB
+,	PUNCT
+вичин	PRN
+мукьув	POSTP
+гъана	VERB
+,	PUNCT
+къарпузда	NOUN
+вичин	PRN
+яргъи	ADJ
+хци	ADJ
+кӀирер	NOUN
+акӀурна	VERB
+,	PUNCT
+ам	PRN
+вине	ADV
+кьуна	VERB
+хьиз	CONJ
+,	PUNCT
+вагьши	ADJ
+кулариз	NOUN
+хъфена	VERB
+.	PUNCT
+
+Ам	PRN
+жанавур	NOUN
+тир	COP
+,	PUNCT
+инанмиш	VERB
+хьухь	VERB
+,	PUNCT
+жанавур	NOUN
+тир	COP
+,	PUNCT
+вуна	PRN
+ам	PRN
+тфенгдай	NOUN
+яна	VERB
+кӀандай	VERB
+!	PUNCT
+
+Яваш	INTJ
+!	PUNCT
+
+Зазни	PRN
+атайди	VERB
+жанавур	NOUN
+тирди	COP
+чир	VERB
+хьана	VERB
+...	PUNCT
+ада	PRN
+къарпуздикай	NOUN
+вучзава	VERB
+эхир	PART
+?!	PUNCT
+
+Белки	INTJ
+,	PUNCT
+ам	PRN
+кицӀ	NOUN
+я	COP
+жеди	PART
+гьа	PART
+?	PUNCT
+
+Заз	PRN
+хъсандиз	ADV
+акуна	VERB
+,	PUNCT
+я	PART
+хва	NOUN
+!	PUNCT
+
+Гьуьжет	NOUN
+алач	COP
+,	PUNCT
+угъри	NOUN
+жанавур	NOUN
+я	COP
+!	PUNCT
+
+Тфенг	NOUN
+гьазурна	VERB
+секиндиз	ADV
+ацукь	VERB
+,	PUNCT
+ам	PRN
+исятда	ADV
+мад	ADV
+къведа	VERB
+.	PUNCT
+
+Садал-кьведал	NUM
+ам	PRN
+тух	ADJ
+жедай	VERB
+кафир	NOUN
+туш	COP
+...	PUNCT
+
+Зун	PRN
+,	PUNCT
+тфенг	NOUN
+вагьшиди	ADJ
+угьривилер	NOUN
+ийизвай	VERB
+патахъ	NOUN
+туькӀуьрна	VERB
+,	PUNCT
+фикиррик	NOUN
+акатна	VERB
+.	PUNCT
+
+Адавай	PRN
+къарпузар	NOUN
+нез	VERB
+жеда	VERB
+жал	PART
+?	PUNCT
+
+Жеда	VERB
+!	PUNCT
+
+Гишин	ADJ
+я	COP
+.	PUNCT
+
+Зи	PRN
+къуншидин	NOUN
+кицӀи	NOUN
+гьи	PRN
+емиш	NOUN
+хьайитӀани	PRN
+неда	VERB
+,	PUNCT
+са	NUM
+сеферда	NOUN
+гьатта	PART
+еке	ADJ
+са	NUM
+афнини	NOUN
+кваз	PART
+тӀуьна	VERB
+.	PUNCT
+
+Хутар	NOUN
+,	PUNCT
+хатрутар	NOUN
+адан	PRN
+рикӀ	NOUN
+алай	COP
+ем	NOUN
+я	COP
+.	PUNCT
+
+Къарпуз	NOUN
+дадуниз	NOUN
+гзаф	ADV
+емишрилай	NOUN
+хъсан	ADJ
+я	COP
+эхир	PART
+.	PUNCT
+
+Заз	PRN
+,	PUNCT
+жанавурди	NOUN
+и	PRN
+юкъуз	NOUN
+бустанда	NOUN
+угьривилер	NOUN
+авун	VERB
+,	PUNCT
+бегьем	ADV
+сирлу	ADJ
+кар	NOUN
+хьана	VERB
+.	PUNCT
+
+Им	PRN
+вуч	PRN
+лагьай	VERB
+чӀал	NOUN
+я	COP
+?	PUNCT
+
+И	PRN
+суалдиз	NOUN
+заз	PRN
+жавабни	NOUN
+жагъана	VERB
+:	PUNCT
+бустанчидин	NOUN
+кицӀер	NOUN
+йифиз	NOUN
+уях	ADJ
+я	COP
+,	PUNCT
+абуру	PRN
+жанавур	NOUN
+бустандиз	NOUN
+ахъайдач	VERB
+,	PUNCT
+исятда	ADV
+абур	PRN
+гьар	PRN
+сад	NUM
+са	NUM
+кулан	NOUN
+дибда	NOUN
+,	PUNCT
+кьилер	NOUN
+кьвехве	NOUN
+туна	VERB
+,	PUNCT
+ширин	ADJ
+ахварал	NOUN
+ала	COP
+,	PUNCT
+хъсан	ADJ
+секин	ADJ
+вахт	NOUN
+я	COP
+...	PUNCT
+
+Аквар	VERB
+гьаларай	NOUN
+,	PUNCT
+и	PRN
+кар	NOUN
+жанавурдиз	NOUN
+хъсан	ADJ
+чида	VERB
+.	PUNCT
+
+Вагьши	ADJ
+акьалтӀай	ADJ
+фендигар	NOUN
+я	COP
+...	PUNCT
+
+Зур	NOUN
+сят	NOUN
+алатна	VERB
+жеди	PART
+,	PUNCT
+жанавур	NOUN
+мад	ADV
+атана	VERB
+.	PUNCT
+
+Вагьши	ADJ
+цавуз	NOUN
+гадар	VERB
+хьана	VERB
+,	PUNCT
+ахпа	POSTP
+чилел	NOUN
+алукьна	VERB
+,	PUNCT
+мад	ADV
+юзун	VERB
+хъувунач	VERB
+.	PUNCT
+
+Инсанри	NOUN
+лугьудайвал	VERB
+:	PUNCT
+виш	NUM
+йисуз	NOUN
+яшамиш	VERB
+хьухь	VERB
+,	PUNCT
+виш	NUM
+йисузни	NOUN
+дуьньядин	NOUN
+сирер	NOUN
+чира	VERB
+,	PUNCT
+абур	PRN
+бегьем	ADV
+чир	VERB
+хьайитӀа	VERB
+,	PUNCT
+хъсан	ADJ
+я	COP
+...	PUNCT
+
+Букар	NOUN
+халудивай	NOUN
+вичин	PRN
+шадвал	NOUN
+винел	POSTP
+акъуд	VERB
+тавуна	VERB
+акъвазиз	VERB
+хьанач	VERB
+.	PUNCT
+
+За	PRN
+,	PUNCT
+ам	PRN
+атӀа	PRN
+далудал	NOUN
+рипер	NOUN
+хьтин	PART
+цацар	NOUN
+алай	COP
+дикобраз	NOUN
+тӀвар	NOUN
+алай	COP
+вагьши	ADJ
+гьайван	NOUN
+ятӀа	COP
+,	PUNCT
+лугьузвай	VERB
+.	PUNCT
+
+Жанавурди	NOUN
+къарпузар	NOUN
+тарашун	VERB
+гьич	ADV
+фикирдизни	NOUN
+къведай	VERB
+кӀвалах	NOUN
+туш	COP
+...	PUNCT
+
+Яд	NOUN
+хвайла	VERB
+авахьзвани	VERB
+?	PUNCT
+
+Яд	NOUN
+хвайила	VERB
+авахьиз	VERB
+кчӀела	VERB
+,	PUNCT
+гьада	PRN
+кими	ADJ
+виляй	POSTP
+.	PUNCT
+
+Яна	VERB
+кӀулаз	NOUN
+шудир	VERB
+агъа	PRN
+булахдал	NOUN
+.	PUNCT
+
+И	PRN
+гуьрар	NOUN
+авай	VERB
+тир	COP
+,	PUNCT
+яд	NOUN
+авай	VERB
+гуьрар	NOUN
+.	PUNCT
+
+Вучиз	ADV
+лагьайтӀа	VERB
+,	PUNCT
+гьабурун	PRN
+алакъа	NOUN
+гьа	PRN
+Цлахърихъ	NOUN
+галаз	POSTP
+хьана	VERB
+.	PUNCT
+
+Кьвед	NUM
+зуьрнечияр	NOUN
+жезвай	VERB
+,	PUNCT
+сад	NUM
+зил	NOUN
+кьазвайди	VERB
+,	PUNCT
+сад	NUM
+макьамар	NOUN
+язвайди	VERB
+.	PUNCT
+
+Вуна	PRN
+лагьана	VERB
+.	PUNCT
+
+Зи	PRN
+нерай	NOUN
+иви	NOUN
+шуз	VERB
+акуна	VERB
+,	PUNCT
+лагьана	VERB
+.	PUNCT
+
+Гьа	PRN
+инал	PRN
+хъжеда	VERB
+чун	PRN
+къведа	VERB
+суз	NOUN
+,	PUNCT
+гьа	PRN
+инал	PRN
+кӀват	VERB
+жеда	VERB
+чун	PRN
+кьведни	NUM
+,	PUNCT
+лугьузва	VERB
+.	PUNCT
+
+ЧӀем	NOUN
+,	PUNCT
+лагьана	VERB
+,	PUNCT
+хана	VERB
+лугьуз	VERB
+,	PUNCT
+лагьана	VERB
+,	PUNCT
+ркӀар	NOUN
+ахъайт	VERB
+ийиз	VERB
+жедани	VERB
+,	PUNCT
+лагьана	VERB
+.	PUNCT
+
+Вун	NOUN
+къвезвани	VERB
+ваз	PRN
+?	PUNCT
+
+Ахпа	ADV
+пака	ADV
+пукумаз	NOUN
+къарагъна	VERB
+.	PUNCT
+
+Кьена	VERB
+фекьиди	NOUN
+руш	NOUN
+,	PUNCT
+лагьана	VERB
+.	PUNCT
+
+Султан	NOUN
+вах	NOUN
+тир	COP
+,	PUNCT
+Рагманун	NOUN
+вах	NOUN
+жезва	VERB
+.	PUNCT
+
+Вун	NOUN
+хьайиди	VERB
+заз	PRN
+Перизда	NOUN
+.	PUNCT
+
+Периздадиз	NOUN
+кӀунзвайтир	VERB
+.	PUNCT
+
+Бугъма	NOUN
+.	PUNCT
+
+Кьурурна	VERB
+йикӀар	NOUN
+.	PUNCT
+
+Ам	PRN
+хъсин	ADJ
+дишегьли	NOUN
+я	COP
+.	PUNCT
+
+Ам	PRN
+гъуьлукай	NOUN
+хтана	VERB
+лугьана	VERB
+вуч	ADV
+жезва	VERB
+кьун	PART
+.	PUNCT
+
+Алдерхани	NOUN
+гада	NOUN
+яз	COP
+гъанвади	VERB
+.	PUNCT
+
+Квахь	VERB
+,	PUNCT
+лагьанва	VERB
+Алдерхади	NOUN
+,	PUNCT
+гьа	PRN
+и	PRN
+гьаятда	NOUN
+,	PUNCT
+лагьанва	VERB
+,	PUNCT
+квехъ	PRN
+виридахъ	PRN
+гапур	NOUN
+газ	POSTP
+галдугда	VERB
+зун	PRN
+,	PUNCT
+лагьанва	VERB
+.	PUNCT
+
+Гъида	VERB
+Перизда	NOUN
+.	PUNCT
+
+Гъана	VERB
+ида	PRN
+.	PUNCT
+
+Перизда	NOUN
+гъана	VERB
+Алдерхади	NOUN
+.	PUNCT
+
+Ахпа	ADV
+вуч	ADV
+ийида	VERB
+.	PUNCT
+
+Жедач	VERB
+,	PUNCT
+жедач	VERB
+,	PUNCT
+лугьуз	VERB
+,	PUNCT
+им	PRN
+хьана	VERB
+,	PUNCT
+кӀундач	VERB
+,	PUNCT
+кӀундач	VERB
+,	PUNCT
+лагьана	VERB
+,	PUNCT
+эхир	NOUN
+чӀалав	NOUN
+атана	VERB
+.	PUNCT
+
+Периздадин	NOUN
+дейи	NOUN
+и	PRN
+бугъма	NOUN
+атай	VERB
+гамишдин	NOUN
+йикӀар	NOUN
+симинатӀуз	NOUN
+.	PUNCT
+
+Вун	NOUN
+хьайиди	VERB
+заз	PRN
+.	PUNCT
+
+Чи	PRN
+хуьряй	NOUN
+.	PUNCT
+
+Гьу	INTJ
+!	PUNCT
+
+Идан	PRN
+вуч	PRN
+ийида	VERB
+.	PUNCT
+
+Ихьди-ихьдин	PRN
+кӀусар	NOUN
+таз	VERB
+...	PUNCT
+хъчӀуьк	NOUN
+кутаз	VERB
+вуч	PRN
+тухузвай	VERB
+кӀвализ	NOUN
+гуз	VERB
+хьанвайда	VERB
+.	PUNCT
+
+Са	NUM
+ихьтин	ADJ
+инлай	PRN
+инал	PRN
+уькьу	ADV
+хара	NOUN
+кӀарасар	NOUN
+авай	VERB
+Заиматун	NOUN
+пата	NOUN
+.	PUNCT
+
+Юхьиз	NOUN
+,	PUNCT
+варз	NOUN
+алай	COP
+юхьвера	NOUN
+авахьда	VERB
+.	PUNCT
+
+Хьвехь	NOUN
+вичиз	PRN
+иджевайдиз	ADV
+ацукьнава	VERB
+,	PUNCT
+хъуьруьнар	NOUN
+ийиз	VERB
+,	PUNCT
+зарафатар	NOUN
+ийиз	VERB
+.	PUNCT
+
+Мейрама	NOUN
+пичинай	NOUN
+акъудна	VERB
+вегьена	VERB
+.	PUNCT
+
+Вуна	PRN
+гьакӀа	ADV
+туьюди	NOUN
+туна	VERB
+вилик	ADV
+ицигнайни	VERB
+.	PUNCT
+
+Мейрама	NOUN
+чирда	VERB
+гам	NOUN
+...	PUNCT
+
+Мейрамбурун	NOUN
+кӀвале	NOUN
+ава	VERB
+тир	COP
+зун	PRN
+гам	NOUN
+чириз	VERB
+...	PUNCT
+
+Йо	PART
+аллагь	NOUN
+,	PUNCT
+ваз	PRN
+ида	PRN
+авурбур	VERB
+акунайтӀа	VERB
+.	PUNCT
+
+Гьакьв	PRN
+шад	ADJ
+жезвайда	VERB
+ламраз	NOUN
+.	PUNCT
+
+Кьуьлер	NOUN
+ийида	VERB
+е	PART
+ламра	NOUN
+.	PUNCT
+
+Нисинин	NOUN
+ваадетир	NOUN
+...	PUNCT
+атӀа	PRN
+,	PUNCT
+луцарилай	NOUN
+хтанвай	VERB
+вааде	NOUN
+.	PUNCT
+
+Хьухьве	NOUN
+вуч	ADV
+ахъайда	VERB
+.	PUNCT
+
+Ламра	NOUN
+.	PUNCT
+
+Валлагь	INTJ
+,	PUNCT
+икӀ	PRN
+нера	NOUN
+чӀугваз	VERB
+,	PUNCT
+икӀ	PRN
+ийиз	VERB
+вичел	PRN
+гадариз	VERB
+,	PUNCT
+икӀиз-икӀиз	PRN
+къуьругиз	VERB
+гьанра	ADV
+...	PUNCT
+
+Э	PART
+,	PUNCT
+чи	PRN
+хуьряй	NOUN
+.	PUNCT
+
+Къариди	NOUN
+ахъайр	VERB
+заз	PRN
+.	PUNCT
+
+Ам	PRN
+за	PRN
+атӀа	PRN
+.	PUNCT
+
+Вуч	PRN
+тухузвай	VERB
+кӀвализ	NOUN
+гугуз	VERB
+хьанвайди	VERB
+.	PUNCT
+
+Ничяза	ADJ
+?	PUNCT
+
+И	PRN
+Алдерхадиз	NOUN
+къведайла	VERB
+.	PUNCT
+
+Ахпа	ADV
+и	PRN
+Алдерхабуру	NOUN
+дейи	NOUN
+лугьуз	VERB
+хьанвайди	VERB
+.	PUNCT
+
+Я	PART
+чун	ADJ
+хва	NOUN
+,	PUNCT
+чна	PRN
+Перизда	NOUN
+гъин	VERB
+.	PUNCT
+
+Ахпа	ADV
+гьа	PRN
+Перизда	NOUN
+вах	NOUN
+яни	COP
+Рагьманан	NOUN
+?	PUNCT
+
+Э	PART
+.	PUNCT
+
+Ахпа	ADV
+вуч	PRN
+ийида	VERB
+ида	PRN
+.	PUNCT
+
+Ам	PRN
+сифтедай	NUM
+низ	PRN
+туханвани	VERB
+.	PUNCT
+
+Аялар	NOUN
+эхтилатар	NOUN
+ийиз	VERB
+жеда	VERB
+.	PUNCT
+
+Чун	PRN
+эке	ADJ
+рушар	NOUN
+яз	COP
+,	PUNCT
+чун	PRN
+авахьиз	VERB
+жеда	VERB
+аларал	NOUN
+.	PUNCT
+
+Хъуьруьнар	NOUN
+ийиз	VERB
+ава	COP
+.	PUNCT
+
+Перизда	NOUN
+пуд	NUM
+гъуьлуьз	NOUN
+хьанвайди	VERB
+я	COP
+,	PUNCT
+пудни	NUM
+гадайриз	NOUN
+.	PUNCT
+
+Тарараз	NOUN
+акьахдай	VERB
+чун	PRN
+гьа	PRN
+тараран	NOUN
+кьилелай	NOUN
+.	PUNCT
+
+ГьакӀ	ADV
+гьадан	PRN
+вилик	POSTP
+вигьейди	VERB
+.	PUNCT
+
+ИкӀ	PRN
+авуна	VERB
+,	PUNCT
+алукӀна	VERB
+Джамалан	NOUN
+са	NUM
+ама	COP
+...	PUNCT
+уьквяна	VERB
+гъилерни	NOUN
+,	PUNCT
+тӀалунал	NOUN
+ицигна	VERB
+...	PUNCT
+Мейрам	NOUN
+лагьана	VERB
+:	PUNCT
+валлагь	INTJ
+,	PUNCT
+лагьана	VERB
+,	PUNCT
+атӀа	PRN
+гьаятдиз	NOUN
+сад	NUM
+атана	VERB
+...	PUNCT
+
+Эке	ADJ
+рушар	NOUN
+алара	NOUN
+авахьдайни	VERB
+,	PUNCT
+юхь	NOUN
+хьайила	VERB
+,	PUNCT
+живер	NOUN
+аваила	VERB
+.	PUNCT
+
+Ахпа	ADV
+,	PUNCT
+няни	NOUN
+жедалди	VERB
+кьарай	NOUN
+къведаччир	VERB
+заз	PRN
+.	PUNCT
+
+ГьакӀ	ADV
+ава	COP
+.	PUNCT
+
+Фазир	NOUN
+,	PUNCT
+чи	PRN
+рикӀел	NOUN
+...	PUNCT
+
+Ида	PRN
+лугьуда	VERB
+:	PUNCT
+Я	PART
+кье	NOUN
+,	PUNCT
+Ифриз	NOUN
+,	PUNCT
+луда	VERB
+,	PUNCT
+и	PRN
+ламраз	NOUN
+,	PUNCT
+лугьуда	VERB
+,	PUNCT
+рухъ	NOUN
+акурди	NOUN
+хьиз	POSTP
+жеда	VERB
+лугьуда	VERB
+.	PUNCT
+
+Ламраз	NOUN
+гьакьу	ADV
+кӀундайда	VERB
+яда	COP
+руьхъ	NOUN
+.	PUNCT
+
+Гьа	PRN
+гьакӀа	ADV
+лугьуз	VERB
+ам	PRN
+жедай	VERB
+.	PUNCT
+
+Э	PART
+,	PUNCT
+гьа	PRN
+кар	NOUN
+стӀу	ADV
+рикӀелай	NOUN
+алатзавач	VERB
+,	PUNCT
+зи	PRN
+вунани	PRN
+ахъай	VERB
+я	PART
+,	PUNCT
+хьвехь	NOUN
+,	PUNCT
+ви	PRN
+кьиле	POSTP
+атабур	VERB
+са	NUM
+...	PUNCT
+
+Вири	PRN
+гьачна	VERB
+гьадал	PRN
+.	PUNCT
+
+Я	PART
+уьгъвазвай	VERB
+стӀу	ADV
+,	PUNCT
+лугьудай	VERB
+,	PUNCT
+уькьву	ADV
+алукьзва	VERB
+кӀарасар	NOUN
+.	PUNCT
+
+Шузватир	VERB
+Мейрамбурун	NOUN
+кӀвализ	NOUN
+...	PUNCT
+
+Гам	NOUN
+хураз	VERB
+...	PUNCT
+
+Пудани	NUM
+,	PUNCT
+кьудани	NUM
+...	PUNCT
+
+Э	INTJ
+,	PUNCT
+гамар	NOUN
+чириз	VERB
+,	PUNCT
+ам	PRN
+ийидайтир	VERB
+...	PUNCT
+
+Ахпа	ADV
+,	PUNCT
+чи	PRN
+рикӀел	NOUN
+вуч	PRN
+акьватнай	VERB
+.	PUNCT
+
+Ахпа	ADV
+,	PUNCT
+чи	PRN
+рикӀел	NOUN
+вуч	PRN
+атана	VERB
+.	PUNCT
+
+Ида	PRN
+лагьана	VERB
+:	PUNCT
+ша	PART
+чна	PRN
+Джамалаз	NOUN
+,	PUNCT
+лагьана	VERB
+,	PUNCT
+кичӀерар	NOUN
+гун	VERB
+...	PUNCT
+Зани	PRN
+Мейрама	NOUN
+гьаятда	NOUN
+ийида	VERB
+ихьтин	PRN
+чуча	NOUN
+.	PUNCT
+
+Къалур	VERB
+лагьана	VERB
+.	PUNCT
+
+Ваъ	PART
+,	PUNCT
+гьила	ADV
+авахьзвани	VERB
+.	PUNCT
+
+Гьила	ADV
+аял	NOUN
+куьчеда	NOUN
+акурла	VERB
+,	PUNCT
+аял	NOUN
+куьчеда	NOUN
+жедани	VERB
+,	PUNCT
+лугьузва	VERB
+.	PUNCT
+
+А	PRN
+вадеда	NOUN
+авахьзвайтир	VERB
+алари	NOUN
+.	PUNCT
+
+Гам	NOUN
+чириз	VERB
+Рагманун	NOUN
+вах	NOUN
+жезва	VERB
+гьа	PRN
+.	PUNCT
+
+Эхь	PART
+,	PUNCT
+лагьанвади	VERB
+,	PUNCT
+заз	PRN
+атӀа	PRN
+са	NUM
+ни	PRN
+каволдик	NOUN
+ятӀани	COP
+акур	VERB
+,	PUNCT
+лагьанвади	VERB
+,	PUNCT
+за	PRN
+ПинцӀе	NOUN
+гъизвайди	VERB
+туш	COP
+Зи	PRN
+кӀвализ	NOUN
+,	PUNCT
+лагьанвади	VERB
+Алдерхади	NOUN
+.	PUNCT
+
+Чи	PRN
+куьчейрин	NOUN
+тварар	NOUN
+:	PUNCT
+СтӀал	NOUN
+Сулейман	NOUN
+.	PUNCT
+
+Мурк	NOUN
+чкадилай	NOUN
+юзана	VERB
+!	PUNCT
+
+Урусатдин	ADJ
+кьилин	NOUN
+Москва	NOUN
+шегьерда	NOUN
+кьиле	NOUN
+тухванвай	VERB
+ФЛНКдин	NOUN
+,	PUNCT
+ФЛНКдин	NOUN
+президент	NOUN
+,	PUNCT
+Кьибле	NOUN
+Дагъустандин	NOUN
+,	PUNCT
+туьрк	ADJ
+ва	CONJ
+я	COP
+иран	NOUN
+чӀаларал	NOUN
+бинедиз	NOUN
+къачур	VERB
+лезги	ADJ
+хуьрерин	NOUN
+официал	ADJ
+тӀварар	NOUN
+,	PUNCT
+лезги	ADJ
+чӀалаз	NOUN
+таржума	NOUN
+авунин	VERB
+месела	ADV
+виниз	ADV
+акъуднай	VERB
+.	PUNCT
+
+ГьакӀни	ADV
+,	PUNCT
+къейд	NOUN
+авун	VERB
+герек	ADJ
+я	COP
+хьи	PART
+,	PUNCT
+гилан	ADJ
+чӀавуз	NOUN
+хуьрерин	NOUN
+тӀварар	NOUN
+масакӀа	ADV
+хъувун	VERB
+тамамвилелди	ADV
+абурун	PRN
+эгьлийрин	NOUN
+ихтиярда	NOUN
+ава	COP
+,	PUNCT
+амма	CONJ
+виридаз	PRN
+ихьтин	ADJ
+малуматар	NOUN
+авач	COP
+.	PUNCT
+
+Сад-садаз	NUM
+милайим	ADJ
+вилерай	NOUN
+килигин	VERB
+.	PUNCT
+
+Лезгидин	NOUN
+пак	ADJ
+кьин	NOUN
+.	PUNCT
+
+Варар	NOUN
+.	PUNCT
+
+Чи	PRN
+къуншидин	ADJ
+гада	NOUN
+я	COP
+.	PUNCT
+
+Агъзурни	NUM
+кӀуьд	NUM
+вишни	NUM
+кьудкъанни	NUM
+ругуд	NUM
+лагьай	ORD
+йисан	NOUN
+июльдиз	NOUN
+КцӀар	NOUN
+райондин	NOUN
+Жегьил	ADJ
+дуьнядиз	NOUN
+вил	NOUN
+ахъайна	VERB
+,	PUNCT
+Бакуда	NOUN
+чӀехи	ADJ
+хьана	VERB
+.	PUNCT
+
+Бакудавай	NOUN
+юкьван	ADJ
+мектебда	NOUN
+,	PUNCT
+Азербайжандин	NOUN
+Кооперация	NOUN
+Университетда	NOUN
+кӀелунар	NOUN
+тамамарна	VERB
+.	PUNCT
+
+Аял	NOUN
+шиирдал	NOUN
+рикӀ	NOUN
+алай	COP
+дидедин	ADJ
+чӀалал	NOUN
+шиирар	NOUN
+кхьизва	VERB
+.	PUNCT
+
+Мукьвара	ADV
+хуьруьз	NOUN
+хтайла	VERB
+...	PUNCT
+
+Мегьамед	NOUN
+.	PUNCT
+
+Лезги	ADJ
+газетда	NOUN
+(	PUNCT
+цӀуд	NUM
+кьвед	NUM
+агьзурни	NUM
+муьжуьд	NUM
+)	PUNCT
+чапнавай	VERB
+Роман	NOUN
+"	PUNCT
+Чин	NOUN
+чинал	NOUN
+"	PUNCT
+ачух	ADJ
+кагъаздиз	NOUN
+,	PUNCT
+лагьана	VERB
+ганвай	VERB
+жавабда	NOUN
+ихьтин	ADJ
+келимаяр	NOUN
+ава	COP
+:	PUNCT
+чи	PRN
+алай	COP
+аямдин	NOUN
+лезги	ADJ
+шииратдин	NOUN
+лап	ADV
+бажарагълу	ADJ
+векил	NOUN
+тир	COP
+...	PUNCT
+
+ЧӀални	NOUN
+эдебият	NOUN
+чирзавай	VERB
+сайт	NOUN
+.	PUNCT
+
+Къад	NUM
+апрелдиз	NOUN
+"	PUNCT
+лезги	ADJ
+чӀал	NOUN
+"	PUNCT
+сайт	NOUN
+кардик	NOUN
+акатайдалай	VERB
+инихъ	ADV
+пуд	NUM
+йис	NOUN
+тамам	ADV
+хьанва	VERB
+.	PUNCT
+
+Пуд	NUM
+йисан	NOUN
+муддатда	NOUN
+сайтди	NOUN
+,	PUNCT
+чархачиди	NOUN
+хьиз	PART
+,	PUNCT
+лезги	ADJ
+халкьдив	NOUN
+чӀалакайни	NOUN
+литературадикай	NOUN
+гзаф	ADV
+малуматар	NOUN
+агакьарна	VERB
+ва	CONJ
+и	PRN
+кар	NOUN
+гележегдани	NOUN
+йигин	ADJ
+камаралди	NOUN
+давамардай	VERB
+ава	COP
+.	PUNCT
+
+Муштулух	NOUN
+:	PUNCT
+"	PUNCT
+Марвардин	NOUN
+"	PUNCT
+сифте	ADJ
+межлис	NOUN
+.	PUNCT
+
+Бакуда	NOUN
+и	PRN
+тӀвар	NOUN
+алаз	COP
+лезги	ADJ
+эдебиятдал	NOUN
+рикӀ	NOUN
+алайбурун	ADJ
+тешкил	VERB
+хьана	VERB
+.	PUNCT
+
+Малум	ADJ
+тирвал	ADV
+алатай	ADJ
+йисалай	NOUN
+чи	PRN
+меркезда	NOUN
+"	PUNCT
+Алам	NOUN
+"	PUNCT
+тӀвар	NOUN
+алай	COP
+лезги	ADJ
+културадин	NOUN
+журнал	NOUN
+акъатзава	VERB
+.	PUNCT
+
+Чи	PRN
+култура	NOUN
+вилик	ADV
+тухунин	VERB
+рекье	NOUN
+вичин	PRN
+сифте	ADJ
+камар	NOUN
+вегьизвай	VERB
+журналдин	NOUN
+"	PUNCT
+Марвар	NOUN
+"	PUNCT
+лезги	ADJ
+литаратурадин	ADJ
+кардик	NOUN
+акатна	VERB
+.	PUNCT
+
+Яран	ADJ
+Сувар	NOUN
+мубаракрай	VERB
+Лезгияр	NOUN
+.	PUNCT
+
+Яран	ADJ
+са	PRN
+пуд	NUM
+агъзур	NUM
+йис	NOUN
+кьван	ADV
+я	COP
+.	PUNCT
+
+Дагъустан	NOUN
+ва	CONJ
+Азербайджан	NOUN
+республикайрин	NOUN
+халкьари	NOUN
+и	PRN
+сувар	NOUN
+къейд	NOUN
+ийида	VERB
+.	PUNCT
+
+Идалай	PRN
+вилик	POSTP
+,	PUNCT
+залан	ADJ
+кьуьд	NOUN
+алатна	VERB
+гатфар	NOUN
+атайла	VERB
+,	PUNCT
+инсанри	NOUN
+суварин	NOUN
+акваз	VERB
+.	PUNCT
+
+михьдай	VERB
+,	PUNCT
+куьгьне	ADJ
+перемрикай	NOUN
+чирагъар	NOUN
+ийидай	VERB
+(	PUNCT
+пекер	NOUN
+арушнавай	VERB
+лаш	NOUN
+)	PUNCT
+ва	CONJ
+суварин	NOUN
+гьазурдай	VERB
+.	PUNCT
+
+Суварин	NOUN
+юкъуз	NOUN
+,	PUNCT
+нянин	ADJ
+вахтунда	NOUN
+,	PUNCT
+чирагъриз	NOUN
+цӀаяр	NOUN
+ягъдай	VERB
+(	PUNCT
+шумуд	PRN
+аял	NOUN
+чирагъарни	NOUN
+хьун	VERB
+лазим	ADJ
+тир	COP
+)	PUNCT
+,	PUNCT
+cуварин	NOUN
+суфра	NOUN
+ачухдай	VERB
+,	PUNCT
+ахпа	ADV
+сувар	NOUN
+мубаракиз	VERB
+мугьманриз	NOUN
+фида	VERB
+,	PUNCT
+бармакар	NOUN
+чантаяр	NOUN
+,	PUNCT
+манияр	NOUN
+лугьуз	PART
+шадвал	VERB
+кьиле	NOUN
+тухуда	VERB
+.	PUNCT
+
+Жегьил	ADJ
+пагьливан	NOUN
+.	PUNCT
+
+Эхиримжи	ADJ
+йисара	NOUN
+гьукуматди	NOUN
+спорттдиз	NOUN
+кьетӀен	NOUN
+фикир	NOUN
+гунин	VERB
+макьсад	NOUN
+жегьил	ADJ
+несилдин	NOUN
+,	PUNCT
+сагъламвал	NOUN
+хуьн	VERB
+я	COP
+.	PUNCT
+
+Дагъустандин	NOUN
+спортсменри	NOUN
+гьеле	ADV
+фад	ADJ
+вахтарилай	NOUN
+,	PUNCT
+Советрин	NOUN
+Союз	NOUN
+гьукумат	NOUN
+,	PUNCT
+чпин	PRN
+алакьунралди	VERB
+чи	PRN
+уьлкве	NOUN
+дуьньядин	NOUN
+гьар	PRN
+са	PRN
+пипӀе	NOUN
+машгьурнай	VERB
+.	PUNCT
+
+Уьлкведа	NOUN
+цӀипуд	NUM
+январь	NOUN
+Россиядин	NOUN
+печатдин	NOUN
+югъ	NOUN
+яз	COP
+къейдзава	VERB
+.	PUNCT
+
+Им	PRN
+агъзурни	NUM
+ирид	NUM
+вишни	NUM
+пуд	NUM
+йисан	NOUN
+цӀипуд	NUM
+январдиз	NOUN
+Петран	NOUN
+къарардалди	NOUN
+"	PUNCT
+Ведомости	NOUN
+"	PUNCT
+тӀвар	NOUN
+алай	COP
+газетдин	NOUN
+сад	NUM
+лагьай	ORD
+нумрадиз	NOUN
+дуьнья	NOUN
+акур	VERB
+югъ	NOUN
+я	COP
+.	PUNCT
+
+Алай	COP
+вахтунда	NOUN
+...	PUNCT
+
+Играми	ADJ
+Лезгияр	NOUN
+!	PUNCT
+
+КцӀар	NOUN
+шегьерда	NOUN
+кӀвал	NOUN
+,	PUNCT
+чил	NOUN
+кӀанзватӀа	VERB
+,	PUNCT
+комментарий	NOUN
+кхьихь	VERB
+инал	ADV
+.	PUNCT
+
+Лезгийриз	NOUN
+хъсан	ADJ
+скидка	NOUN
+ийида	VERB
+.	PUNCT
+
+ЦӀийи	ADJ
+кьвед	NUM
+агьзурни	NUM
+цӀувад	NUM
+йис	NOUN
+мубаракрай	VERB
+,	PUNCT
+Лезгияр	NOUN
+.	PUNCT
+
+Играми	ADJ
+чи	PRN
+Лезгияр	NOUN
+порталдин	NOUN
+иштиракчияр	NOUN
+ва	CONJ
+амай	COP
+вири	PRN
+лезгияр	NOUN
+!	PUNCT
+
+Квез	PRN
+алукьзавай	VERB
+кьве	NUM
+агъзурни	NUM
+цӀувад	NUM
+лагьай	ORD
+йис	NOUN
+Лезгияр	NOUN
+сайтдин	NOUN
+коллективдин	NOUN
+патай	NOUN
+рикӀин	NOUN
+сидкьиай	NOUN
+мубаракрай	VERB
+.	PUNCT
+
+Дербентда	NOUN
+лезги	ADJ
+чӀалан	NOUN
+конференция	NOUN
+.	PUNCT
+
+ЦӀуругуд	NUM
+майдин	NOUN
+йикъан	NOUN
+сятдин	NOUN
+цӀусаддаз	NUM
+къадим	ADJ
+Дербент	NOUN
+шегьерда	NOUN
+авай	COP
+СтӀал	NOUN
+Сулейманан	NOUN
+тӀварунихъ	NOUN
+галай	COP
+Лезги	ADJ
+муздрамтеатрдин	NOUN
+гегьенш	ADJ
+дараматда	NOUN
+лезги	ADJ
+чӀалаз	NOUN
+талукь	ADJ
+тир	COP
+"	PUNCT
+Лезги	ADJ
+чӀал	NOUN
+:	PUNCT
+авай	COP
+гьал	NOUN
+ва	CONJ
+вилик	ADV
+фидай	VERB
+мумкинвилер	NOUN
+"	PUNCT
+месэладай	NOUN
+илимдинни	NOUN
+практикадин	ADJ
+конференция	NOUN
+кьиле	NOUN
+фена	VERB
+.	PUNCT
+
+Ам	PRN
+тешкилаади	VERB
+тӀвар-ван	NOUN
+авай	COP
+шаир	NOUN
+,	PUNCT
+Албанистикадин	NOUN
+илимдинни	NOUN
+ахтармишунрин	VERB
+институтдин	NOUN
+директор	NOUN
+,	PUNCT
+филологиядин	NOUN
+илимрин	NOUN
+доктор	NOUN
+я	COP
+...	PUNCT
+
+Ругуд	NUM
+сеферда	NOUN
+чемпион	NOUN
+.	PUNCT
+
+Алатай	ADJ
+вацра	NOUN
+Татарстанда	NOUN
+залан	ADJ
+атлетикадай	NOUN
+жаванрин	NOUN
+арада	POSTP
+Россиядин	NOUN
+патал	ADV
+акъажунар	VERB
+кьиле	NOUN
+фена	VERB
+.	PUNCT
+
+Турнир	NOUN
+Зеленодольск	NOUN
+шегьердин	ADJ
+"	PUNCT
+Маяк	NOUN
+"	PUNCT
+тӀвар	NOUN
+алай	COP
+спорткомплексда	NOUN
+тешкилнавай	VERB
+.	PUNCT
+
+Ана	ADV
+уьлкведин	NOUN
+яхцӀур	NUM
+региондай	NOUN
+вишдалай	NUM
+гзаф	ADV
+спортсменри	NOUN
+иштиракна	VERB
+.	PUNCT
+
+ЯхцӀурни	NUM
+муьжуьд	NUM
+йисуз	NOUN
+сегьнеда	NOUN
+.	PUNCT
+
+Дагъустанди	NOUN
+дуьньядиз	NOUN
+бажарагълу	ADJ
+гзаф	ADV
+актерар	NOUN
+ганва	VERB
+.	PUNCT
+
+Абурукай	PRN
+сад	NUM
+РДдин	NOUN
+лайихлу	ADJ
+артист	NOUN
+,	PUNCT
+вичин	PRN
+ери-бине	NOUN
+Сулейман-Стальский	NOUN
+райондин	NOUN
+я	COP
+лагьайтӀа	VERB
+,	PUNCT
+зун	PRN
+жедач	VERB
+.	PUNCT
+
+сувар	NOUN
+мубаракрай	VERB
+,	PUNCT
+Лезгияр	NOUN
+!	PUNCT
+
+Гьуьрметлу	ADJ
+Лезгияр	NOUN
+тӀвар	NOUN
+алай	COP
+порталдин	NOUN
+иштиракчияр	NOUN
+,	PUNCT
+квез	PRN
+къенин	ADJ
+азиз	ADJ
+сувар	NOUN
+рикӀин	NOUN
+сидкьиай	NOUN
+мубаракрай	VERB
+.	PUNCT
+
+
+азардикай	NOUN
+цӀусад	NUM
+йиса	NOUN
+аваз	COP
+вичин	PRN
+дуьнья	NOUN
+дегишарна	VERB
+зурба	ADJ
+сеняткарди	NOUN
+.	PUNCT
+
+Бакудиз	NOUN
+датӀана	ADV
+къвайи	VERB
+а	PRN
+юкъуз	NOUN
+ара	NOUN
+ганвай	VERB
+.	PUNCT
+
+Эгь	INTJ
+,	PUNCT
+дуьньядикай	NOUN
+хъелна	VERB
+гьамишалух	VERB
+куьч	NOUN
+жезвай	VERB
+инсандиз	NOUN
+идакай	PRN
+хабар	NOUN
+авай	COP
+кьван	ADV
+?	PUNCT
+
+ГьакӀ	ADV
+амукьай	ADJ
+гафар-чӀалар	NOUN
+.	PUNCT
+
+Етим	NOUN
+Эмин	ADJ
+ва	CONJ
+лезги	ADJ
+Нямет	NOUN
+.	PUNCT
+
+йис	NOUN
+и	PRN
+зурба	ADJ
+шаиррин	NOUN
+туш	COP
+,	PUNCT
+яргъал	ADJ
+тушир	COP
+алатай	ADJ
+йисара	NOUN
+чи	PRN
+халкьдин	ADJ
+векилри	NOUN
+эдебиятдин	ADJ
+мярекатрал	NOUN
+,	PUNCT
+интернетдин	NOUN
+сайтра	NOUN
+.	PUNCT
+
+Мусурманар	NOUN
+Рамазан	NOUN
+варз	NOUN
+гьатнва	VERB
+!	PUNCT
+
+Дагъустанда	NOUN
+физвайбур	VERB
+рейс	NOUN
+тешкилун	VERB
+пландик	NOUN
+кутунва	VERB
+.	PUNCT
+
+Кьудкъад	NUM
+лагьай	ORD
+йисарин	NOUN
+эхирар	NOUN
+лезгийрин	NOUN
+эстрада	NOUN
+жезвай	VERB
+чӀавар	NOUN
+тир	COP
+.	PUNCT
+
+ЦӀийи	ADJ
+гьавайрихъ	NOUN
+хъувунвай	VERB
+халкьдин	ADJ
+манийрихъ	NOUN
+,	PUNCT
+алатай	ADJ
+девирдин	NOUN
+композиторрин	NOUN
+популяр	ADJ
+хьанвай	VERB
+манийрихъ	NOUN
+цӀийи	ADJ
+оранжировкада	NOUN
+яб	NOUN
+акалун	VERB
+рикӀяй	NOUN
+тир	COP
+.	PUNCT
+
+Лезги	ADJ
+чилерал	NOUN
+эстрададин	NOUN
+манийрин	NOUN
+цӀийи	ADJ
+нефес	NOUN
+атанвай	VERB
+.	PUNCT
+
+Агъзурни	NUM
+кӀуьд	NUM
+вишни	NUM
+яхцӀурни	NUM
+сад	NUM
+агъзурни	NUM
+кӀуьд	NUM
+вишни	NUM
+яхцӀурни	NUM
+вад	NUM
+йисара	NOUN
+кьиле	NOUN
+фейи	VERB
+Ватандин	ADJ
+ЧӀехи	ADJ
+дяве	NOUN
+инсаниятдин	NOUN
+тарихда	NOUN
+лап	ADV
+зурба	ADJ
+яракьлу	ADJ
+ягъунар	VERB
+хьана	VERB
+.	PUNCT
+
+Фашистрин	NOUN
+чапхунчийрихъ	NOUN
+галаз	POSTP
+женг	NOUN
+тухун	VERB
+патал	POSTP
+гьам	PRN
+...	PUNCT
+
+Алупандин	NOUN
+девиррихъ	NOUN
+гелкъвена	VERB
+.	PUNCT
+
+Алатай	ADJ
+виш	NUM
+йисан	NOUN
+виридалайни	NOUN
+чӀехи	ADJ
+вакъиайрикай	NOUN
+сад	NUM
+икьван	ADV
+гагьди	ADV
+малум	ADJ
+тушир	COP
+алпан	NOUN
+кхьинар	VERB
+,	PUNCT
+гьакӀни	ADV
+пудкъанни	NUM
+цӀуд	NUM
+чиникай	NOUN
+,	PUNCT
+виш	NUM
+йисаз	NOUN
+талукь	ADJ
+тир	COP
+"	PUNCT
+Алупан	NOUN
+"	PUNCT
+акъудун	VERB
+,	PUNCT
+абур	PRN
+кхьенвайди	VERB
+субутун	VERB
+хьана	VERB
+.	PUNCT
+
+Агъзурни	NUM
+кӀуьд	NUM
+вишни	NUM
+кудкъанни	NUM
+цӀипуд	NUM
+йисуз	NOUN
+"	PUNCT
+Самур	NOUN
+"	PUNCT
+газетди	NOUN
+Алупан	NOUN
+чинар	NOUN
+агакьарна	VERB
+.	PUNCT
+
+Алпан	NOUN
+кхьинар	VERB
+ачухарай	VERB
+чи	PRN
+машгьур	ADJ
+алим	NOUN
+,	PUNCT
+профессор	NOUN
+зегьметрикай	NOUN
+ва	CONJ
+ада	PRN
+къазанмишай	VERB
+кхьена	VERB
+.	PUNCT
+
+халкьдин	ADJ
+уьмуьрдикай	NOUN
+игитвилин	ADJ
+поэзия	NOUN
+.	PUNCT
+
+Фольклористикади	NOUN
+,	PUNCT
+тестикьарзавайвал	VERB
+,	PUNCT
+гьар	PRN
+са	NUM
+халкьдин	ADJ
+поэзияди	NOUN
+цуьк	NOUN
+акъудун	VERB
+,	PUNCT
+тухумрин	NOUN
+тайифайрин	NOUN
+,	PUNCT
+гьукуматар	NOUN
+арадал	NOUN
+къвезвай	VERB
+уламрал	NOUN
+гьалтзава	VERB
+.	PUNCT
+
+Халкьдин	ADJ
+гзаф	ADV
+.	PUNCT
+
+Етим	NOUN
+чарар	NOUN
+.	PUNCT
+
+чӀехи	ADJ
+стхадиз	NOUN
+.	PUNCT
+
+ЧӀехи	ADJ
+стха	NOUN
+чар	ADJ
+.	PUNCT
+
+Зи	PRN
+вилерин	ADJ
+нур	NOUN
+,	PUNCT
+гуьгьуьлдин	NOUN
+шадвал	VERB
+,	PUNCT
+рикӀин	NOUN
+дава	NOUN
+тир	COP
+,	PUNCT
+чи	PRN
+стха	NOUN
+Гьажи	NOUN
+.	PUNCT
+
+девлет	NOUN
+артухаррай	VERB
+гъил	NOUN
+къачурай	VERB
+ва	CONJ
+къияматдин	NOUN
+юкъуз	NOUN
+терез	NOUN
+жедалди	VERB
+рази	ADJ
+хьурай	VERB
+.	PUNCT
+
+Амин	INTJ
+.	PUNCT
+
+Играми	ADJ
+Лезгияр	NOUN
+!	PUNCT
+
+Куьн	PRN
+Рамазан	NOUN
+Сувар	NOUN
+мубаракзава	VERB
+!	PUNCT
+
+Сив	NOUN
+Аллагьди	NOUN
+мурадрик	NOUN
+!	PUNCT
+
+Аллагьди	NOUN
+куьмекрай	NOUN
+!	PUNCT
+
+Лам	NOUN
+.	PUNCT
+
+Лам	NOUN
+ви	PRN
+буба	NOUN
+я	COP
+,	PUNCT
+кьей	PART
+хва	NOUN
+!	PUNCT
+
+Хъендик	NOUN
+кумай	COP
+месэла	NOUN
+.	PUNCT
+
+Важиблу	ADJ
+я	COP
+.	PUNCT
+
+промышленность	NOUN
+республикадин	ADJ
+АПКдин	NOUN
+экономикада	NOUN
+яшайиш	NOUN
+патал	POSTP
+кьетӀен	NOUN
+метлеб	NOUN
+авай	COP
+сад	NUM
+я	COP
+.	PUNCT
+
+Ам	PRN
+вилик	ADJ
+республикадин	ADJ
+экономикадин	NOUN
+дережаяр	NOUN
+хкаж	VERB
+хьунихъ	VERB
+галаз	POSTP
+сад	NUM
+хьиз	PART
+,	PUNCT
+халкьдин	ADJ
+яшайишни	NOUN
+къулайди	ADJ
+ийида	VERB
+.	PUNCT
+
+Сад	NUM
+лагьай	ORD
+чка	NOUN
+кьуна	VERB
+.	PUNCT
+
+Хайи	ADJ
+чӀалан	NOUN
+.	PUNCT
+
+Играми	ADJ
+редакция	NOUN
+.	PUNCT
+
+Ингье	PART
+са	NUM
+месэлади	NOUN
+захъ	PRN
+къалабулух	NOUN
+кутазва	VERB
+.	PUNCT
+
+са	PRN
+бязи	ADJ
+лезгийри	NOUN
+хайи	VERB
+чӀал	NOUN
+кваз	PART
+кьазвач	VERB
+.	PUNCT
+
+Хайи	ADJ
+чӀалал	NOUN
+са	NUM
+ктаб	NOUN
+,	PUNCT
+я	PART
+газет	NOUN
+абурун	PRN
+рикӀяй	NOUN
+туш	COP
+.	PUNCT
+
+Москвадин	NOUN
+лезгияр	NOUN
+тӀвар	NOUN
+алай	COP
+общественный	ADJ
+организацияди	NOUN
+тешкилзавай	VERB
+и	PRN
+мярекат	NOUN
+нянин	ADJ
+сятдин	NOUN
+вадаз	NUM
+кьиле	NOUN
+тухуда	VERB
+.	PUNCT
+
+Асирдин	NOUN
+машгьур	ADJ
+шаиррикай	NOUN
+сад	NUM
+тир	COP
+СтӀал	NOUN
+Сулейман	NOUN
+агъзурни	NUM
+муьжуьд	NUM
+вишни	NUM
+пудкъанни	NUM
+кӀуьд	NUM
+йисан	NOUN
+дидедиз	NOUN
+хьана	VERB
+ва	CONJ
+агъзурни	NUM
+кӀуьд	NUM
+вишни	NUM
+къанни	NUM
+цӀерид	NUM
+йисан	NOUN
+фена	VERB
+.	PUNCT
+
+Москвадин	NOUN
+лезгияр	NOUN
+общественный	ADJ
+организацияди	NOUN
+чӀехи	ADJ
+шаирдин	NOUN
+яратмишунрал	VERB
+рикӀ	NOUN
+алайбуруз	ADJ
+литературадин	ADJ
+межлисда	NOUN
+теклифзава	VERB
+.	PUNCT
+
+Герек	ADJ
+делилар	NOUN
+телефондин	ADJ
+агъадихъ	NOUN
+галай	COP
+нумрайриз	NOUN
+авуна	VERB
+къачуз	VERB
+жеда	VERB
+.	PUNCT
+
+лезги	ADJ
+чӀал	NOUN
+.	PUNCT
+
+Ам	PRN
+чӀаларин	NOUN
+хизандик	NOUN
+акатзава	VERB
+.	PUNCT
+
+лезги	ADJ
+чӀал	NOUN
+Дагъустандин	NOUN
+чӀехи	ADJ
+чӀаларикай	NOUN
+я	COP
+.	PUNCT
+
+И	PRN
+чӀалан	NOUN
+группадик	NOUN
+лезги	ADJ
+,	PUNCT
+агъул	ADJ
+,	PUNCT
+рутул	ADJ
+,	PUNCT
+удин	NOUN
+чӀалар	NOUN
+акатзава	VERB
+.	PUNCT
+
+Абурукай	PRN
+вад	NUM
+кхьинар	VERB
+авачир	COP
+чӀалар	NOUN
+я	COP
+.	PUNCT
+
+Лезги	ADJ
+чӀал	NOUN
+Дагъустандин	NOUN
+чӀаларин	NOUN
+группадин	NOUN
+чӀаларикай	NOUN
+я	COP
+.	PUNCT
+
+Гьалар	NOUN
+жезва	VERB
+.	PUNCT
+
+Меденият	NOUN
+вилик	ADV
+тухузва	VERB
+.	PUNCT
+
+Имтигьанар	NOUN
+генани	ADV
+гзаф	ADV
+я	COP
+.	PUNCT
+
+Алатай	ADJ
+йисан	NOUN
+июндин	NOUN
+вацралай	NOUN
+Бакуда	NOUN
+акъатзавай	VERB
+лезги	ADJ
+медениятдин	NOUN
+Алам	NOUN
+журнал	NOUN
+акъатун	VERB
+чи	PRN
+халкь	NOUN
+патал	POSTP
+кьетӀен	NOUN
+вакъиа	NOUN
+хьанва	VERB
+.	PUNCT
+
+Мукьвара	ADV
+и	PRN
+журналдин	NOUN
+редактор	NOUN
+тухвана	VERB
+.	PUNCT
+
+Лезги	ADJ
+хуш	ADV
+атана	VERB
+!	PUNCT
+
+Лезги	ADJ
+Радиодал	NOUN
+авай	COP
+.	PUNCT
+
+Лезгияр	NOUN
+,	PUNCT
+квез	PRN
+Сувар	NOUN
+мубаракрай	VERB
+.	PUNCT
+
+Къад	NUM
+йис	NOUN
+-	PUNCT
+им	PRN
+чӀехи	ADJ
+девир	NOUN
+туш	COP
+.	PUNCT
+
+ЧӀал	NOUN
+вилик	ADV
+тухун	VERB
+патал	ADV
+.	PUNCT
+
+Азербайжан	ADJ
+республикадин	ADJ
+президент	NOUN
+азербайжан	ADJ
+чӀалакай	NOUN
+алай	COP
+девирдив	NOUN
+кьадайвал	VERB
+менфят	NOUN
+къачудай	VERB
+мумкинвал	NOUN
+арадал	NOUN
+гъидай	VERB
+ва	CONJ
+уьлкведа	NOUN
+чӀалан	NOUN
+илим	NOUN
+вилик	ADV
+тухуниз	VERB
+куьмек	NOUN
+гудай	VERB
+Гьукуматдин	ADJ
+Программадиз	NOUN
+талукь	ADJ
+серенжем	NOUN
+кьабулнава	VERB
+.	PUNCT
+
+ЦӀийи	ADJ
+серенжемди	NOUN
+азербайжан	ADJ
+чӀалал	NOUN
+интернетдин	NOUN
+ресурсарин	NOUN
+,	PUNCT
+гьакӀни	ADV
+электрондин	NOUN
+ва	CONJ
+учебникрин	NOUN
+акъуддай	VERB
+мумкинвал	NOUN
+гуда	VERB
+.	PUNCT
+
+И	PRN
+чӀал	NOUN
+чириз	VERB
+къецепатан	ADJ
+инсанар	NOUN
+патал	POSTP
+цӀийи	ADJ
+ктабар	NOUN
+чапдай	VERB
+акъудда	VERB
+.	PUNCT
+
+Касдин	NOUN
+гаф	NOUN
+.	PUNCT
+
+Азербайджандин	NOUN
+сейли	ADJ
+художник	NOUN
+,	PUNCT
+вич	PRN
+Дагъустандин	NOUN
+Ахцегь	NOUN
+райондин	NOUN
+Чепер	NOUN
+хуьряй	NOUN
+тир	COP
+Дарвин	NOUN
+Велибекован	NOUN
+чӀехи	ADJ
+буба	NOUN
+Дагъустандиз	NOUN
+ва	CONJ
+Азербайджандиз	NOUN
+машгьур	ADJ
+лезги	ADJ
+карчи	NOUN
+тир	COP
+.	PUNCT
+
+Адахъ	PRN
+тамара	NOUN
+чӀехи	ADJ
+карханаяр	NOUN
+авай	COP
+.	PUNCT
+
+И	PRN
+савадлу	ADJ
+,	PUNCT
+зегьметдал	NOUN
+рикӀ	NOUN
+алай	COP
+,	PUNCT
+хъсанвилерихъ	NOUN
+ялдай	VERB
+,	PUNCT
+шаирдин	NOUN
+рикӀ	NOUN
+авай	COP
+касдин	NOUN
+алай	COP
+чӀехи	ADJ
+дарамат	NOUN
+халисан	ADJ
+сенятдин	NOUN
+тир	COP
+.	PUNCT
+
+Рамазан	NOUN
+мубаракрай	VERB
+.	PUNCT
+
+Гьуьрметлу	ADJ
+Лезгияр	NOUN
+сайтдин	NOUN
+иштиракчияр	NOUN
+,	PUNCT
+квез	PRN
+къенин	ADJ
+азиз	ADJ
+сив	NOUN
+хуьнин	VERB
+сувар	NOUN
+рикӀин	NOUN
+сидкьиай	NOUN
+мубаракрай	VERB
+...	PUNCT
+
+Баку	NOUN
+цӀийи	ADJ
+ийида	VERB
+лагьана	VERB
+Азербайджандин	NOUN
+хабарар	NOUN
+агенстводиз	NOUN
+директорди	NOUN
+Ильгар	NOUN
+.	PUNCT
+
+Гьажибегован	NOUN
+лезги	ADJ
+дустар	NOUN
+.	PUNCT
+
+Вири	PRN
+дуьньядиз	NOUN
+сейли	ADJ
+композитор	NOUN
+шумудни	PRN
+са	NUM
+миллетрин	NOUN
+векилрихъ	NOUN
+галаз	POSTP
+ийизвай	VERB
+.	PUNCT
+
+Адан	PRN
+жегьил	ADJ
+дустарин	VERB
+пуд	NUM
+лезгини	NOUN
+авай	COP
+.	PUNCT
+
+Абур	PRN
+хьанай	VERB
+?	PUNCT
+
+Министерстводин	NOUN
+Маарифдин	NOUN
+хуьзвай	VERB
+Гьажибегован	NOUN
+делода	NOUN
+са	NUM
+кьадар	NOUN
+марагълу	ADJ
+документар	NOUN
+ава	COP
+.	PUNCT
+
+Абурай	PRN
+аквазвайвал	VERB
+,	PUNCT
+агъзурни	NUM
+кӀуьд	NUM
+виш	NUM
+агъзурни	NUM
+кӀуьд	NUM
+вишни	NUM
+сад	NUM
+кӀелдай	NOUN
+йисуз	NOUN
+семинариядин	NOUN
+вини	PRN
+дережадин	NOUN
+гьазурлухдин	NOUN
+синифда	NOUN
+Уьзейир	NOUN
+Гьажибеговахъ	NOUN
+ва	CONJ
+Муслим	NOUN
+Магомаевахъ	NOUN
+галаз	POSTP
+санал	ADV
+жуьреба	ADV
+жуьре	NOUN
+миллетрин	NOUN
+векилри	NOUN
+кӀелзавай	VERB
+.	PUNCT
+
+Информациядин	NOUN
+майданрин	NOUN
+сифте	ADJ
+жергеда	NOUN
+.	PUNCT
+
+Асир	NOUN
+информациядинни	NOUN
+технологиядин	NOUN
+яз	COP
+гьисабзава	VERB
+.	PUNCT
+
+Чи	PRN
+йикъара	NOUN
+Интернетдикай	NOUN
+менфят	NOUN
+къачузвайбурун	VERB
+сан	NOUN
+югъ	NOUN
+къандавай	NOUN
+артух	ADV
+жезва	VERB
+.	PUNCT
+
+Хабарар	NOUN
+,	PUNCT
+информация	NOUN
+сайтар	NOUN
+вири	PRN
+махлукьатрихъ	NOUN
+ава	COP
+.	PUNCT
+
+Дамахиз	VERB
+жедай	VERB
+кар	NOUN
+я	COP
+хьи	PART
+,	PUNCT
+датӀана	ADV
+вичин	PRN
+сергьятар	NOUN
+гегьенш	ADJ
+жезвай	VERB
+лезгинетда	NOUN
+алай	COP
+вахтунда	NOUN
+медениятдиз	NOUN
+,	PUNCT
+тарихдиз	NOUN
+,	PUNCT
+хайи	VERB
+чӀалазни	NOUN
+эдебиятдиз	NOUN
+,	PUNCT
+хабарриз	NOUN
+ва	CONJ
+маса	ADJ
+хилериз	NOUN
+талукь	ADJ
+сайтар	NOUN
+тӀимил	NOUN
+авач	COP
+.	PUNCT
+
+Халкьдин	ADJ
+фикир	NOUN
+сад	NUM
+хьурай	VERB
+,	PUNCT
+рикӀин	NOUN
+мурад	NOUN
+фад	ADJ
+жеда	VERB
+!	PUNCT
+
+Маса	ADJ
+чара	NOUN
+амач	COP
+квез	PRN
+,	PUNCT
+сад	NUM
+хьайла	NOUN
+,	PUNCT
+шад	VERB
+жеда	VERB
+.	PUNCT
+
+Профессор	NOUN
+Османов	NOUN
+.	PUNCT
+
+Москвадин	NOUN
+жегьил	ADJ
+лезги	ADJ
+алимрикай	NOUN
+гаф	NOUN
+кватайла	VERB
+гьасятда	ADV
+Элхан	NOUN
+Османован	NOUN
+тӀвар	NOUN
+рикӀел	NOUN
+хкведа	VERB
+.	PUNCT
+
+Къанни	NUM
+вад	NUM
+йиса	NOUN
+докторвилин	NOUN
+диссертация	NOUN
+,	PUNCT
+хвейи	VERB
+йиса	NOUN
+профессор	NOUN
+.	PUNCT
+
+Амма	CONJ
+и	PRN
+кар	NOUN
+тестикьарзавай	VERB
+чарар	NOUN
+галаз	POSTP
+хьайила	VERB
+,	PUNCT
+пагь	INTJ
+амукьна	VERB
+.	PUNCT
+
+Къазмайрин	NOUN
+юкьван	ADJ
+школа	NOUN
+са	NUM
+мертебадин	NOUN
+кьве	NUM
+дараматда	NOUN
+ава	COP
+.	PUNCT
+
+ЦӀийи	ADJ
+йис	NOUN
+мубаракрай	VERB
+стхаяр	NOUN
+ва	CONJ
+вахар	NOUN
+!	PUNCT
+
+чӀехи	ADJ
+шаирдин	NOUN
+келимаяр	NOUN
+.	PUNCT
+
+Эсерар	NOUN
+ава	COP
+,	PUNCT
+садра	NUM
+кӀелна	VERB
+,	PUNCT
+Са	PRN
+акьван	NOUN
+лезетни	NOUN
+тагана	VERB
+,	PUNCT
+рикIелай	NOUN
+алатдай	VERB
+.	PUNCT
+
+Эсерар	NOUN
+ава	COP
+,	PUNCT
+асиррай	NOUN
+асирриз	NOUN
+фидай	VERB
+.	PUNCT
+
+Уьмуьрдиз	NOUN
+гьазурзавай	VERB
+кьеб	NOUN
+.	PUNCT
+
+сентябрдин	NOUN
+югъ	NOUN
+сувар	NOUN
+яз	COP
+къейд	NOUN
+авун	VERB
+дуьшуьшдин	NOUN
+кар	NOUN
+туш	COP
+.	PUNCT
+
+Гьеле	ADV
+агъзурни	NUM
+муьжуьд	NUM
+вишни	NUM
+пудкъанни	NUM
+пуд	NUM
+йисан	NOUN
+сентябрдиз	NOUN
+Санкт	NOUN
+Петербург	NOUN
+шегьерда	NOUN
+Россияда	NOUN
+сифте	ADJ
+яз	COP
+аялрин	ADJ
+бахча	NOUN
+кардик	NOUN
+акатнай	VERB
+.	PUNCT
+
+Малум	ADJ
+тирвал	ADV
+,	PUNCT
+мектебдиз	NOUN
+фидай	VERB
+яшар	NOUN
+тахьанвай	VERB
+аялриз	NOUN
+тербия	NOUN
+гун	VERB
+ва	CONJ
+абур	PRN
+уьмуьрдиз	NOUN
+гьазурун	VERB
+важиб	ADJ
+.	PUNCT
+
+Стхаяр	NOUN
+Вахар	NOUN
+.	PUNCT
+
+Заз	PRN
+пара	ADV
+ван	NOUN
+кьезва	VERB
+.	PUNCT
+
+Афганистанда	NOUN
+пара	ADV
+Лезгияр	NOUN
+ава	COP
+ахпани	ADV
+Иракда	NOUN
+ва	CONJ
+Иорданиядани	NOUN
+.	PUNCT
+
+Играми	ADJ
+Лезгияр	NOUN
+!	PUNCT
+
+Суварар	NOUN
+мубарак	VERB
+хьурай	VERB
+!	PUNCT
+
+Куьн	PRN
+куь	PRN
+мурадрик	NOUN
+агакърай	VERB
+!	PUNCT
+
+Играми	ADJ
+Лезгияр	NOUN
+!	PUNCT
+
+Кьвед	NUM
+агьзурни	NUM
+цӀипуд	NUM
+йис	NOUN
+гзаф	ADV
+алатна	VERB
+!	PUNCT
+
+Алатай	ADJ
+йисуз	NOUN
+лезги	ADJ
+халкьдиз	NOUN
+пара	ADV
+аватна	VERB
+.	PUNCT
+
+Пара	ADV
+лезги	ADJ
+жегьил	ADJ
+гада	NOUN
+Дагъустандин	NOUN
+ОМОНди	NOUN
+кутванва	VERB
+.	PUNCT
+
+Къвезвай	VERB
+кьвед	NUM
+агьзурни	NUM
+цӀукьуд	NUM
+йис	NOUN
+куьн	PRN
+жув	PRN
+галаз	POSTP
+яшамиш	VERB
+хьухь	NOUN
+.	PUNCT
+
+кӀвалахар	NOUN
+вири	PRN
+дуьз	ADV
+жеда	VERB
+.	PUNCT
+
+Играми	ADJ
+Лезгияр	NOUN
+!	PUNCT
+
+Куьн	PRN
+Яран	ADJ
+Сувар	NOUN
+мубарак	VERB
+хьурай	VERB
+!	PUNCT
+
+Мурадрик	NOUN
+агакьрай	VERB
+!	PUNCT
+
+гьамиша	ADV
+шад	VERB
+хьурай	VERB
+!	PUNCT
+
+чи	PRN
+чӀехи	ADJ
+шаир	NOUN
+СтӀал	NOUN
+Сулейманан	NOUN
+тӀварунихъ	NOUN
+галай	COP
+,	PUNCT
+гьар	PRN
+йисуз	NOUN
+адет	NOUN
+тирвал	ADV
+,	PUNCT
+зурба	ADJ
+шаир	NOUN
+хайи	VERB
+югъ	NOUN
+адан	PRN
+шииратдин	NOUN
+сувар	NOUN
+шад	VERB
+гьалара	NOUN
+къейдна	VERB
+.	PUNCT
+
+Мусурман	ADJ
+диндин	ADJ
+дибар	NOUN
+-	PUNCT
+Исламдикай	NOUN
+лезги	ADJ
+чӀалал	NOUN
+.	PUNCT
+
+Яран	ADJ
+Сувар	NOUN
+атана	VERB
+!	PUNCT
+
+Играми	ADJ
+лезгияр	NOUN
+!	PUNCT
+
+Гатфар	NOUN
+атана	VERB
+,	PUNCT
+чи	PRN
+лезги	ADJ
+группадиз	NOUN
+цӀийи	ADJ
+аватар	NOUN
+эцигна	VERB
+кӀанзва	VERB
+.	PUNCT
+
+Лезгияр	NOUN
+порталди	NOUN
+чи	PRN
+играми	ADJ
+ва	CONJ
+багьа	ADJ
+рикӀин	NOUN
+сидкьиай	NOUN
+къенин	ADJ
+сувар	NOUN
+мубаракзава	VERB
+.	PUNCT
+
+Гьуьрметлу	ADJ
+дишегьлияр	NOUN
+,	PUNCT
+квехъ	PRN
+виридахъ	PRN
+чандин	NOUN
+сагъвал	ADJ
+хьурай	VERB
+,	PUNCT
+рикӀера	NOUN
+авай	COP
+мурадрихъ	NOUN
+Аллагьди	NOUN
+агакьарай	VERB
+,	PUNCT
+дуьньяда	NOUN
+авай	COP
+четинвилерикай	NOUN
+куь	PRN
+рикӀериз	NOUN
+залан	ADJ
+тахьуй	VERB
+,	PUNCT
+четин	ADJ
+йикъарилай	NOUN
+регьятвилер	NOUN
+пара	ADV
+хьурай	VERB
+.	PUNCT
+
+Куь	PRN
+чинрал	NOUN
+гьамиша	ADV
+гатфарин	ADJ
+югъ	NOUN
+хьтин	PART
+мили	ADJ
+хъвер	VERB
+хьурай	VERB
+.	PUNCT
+
+Депутат	NOUN
+лагьана	VERB
+,	PUNCT
+лезгийрин	NOUN
+твар	VERB
+,	PUNCT
+ва	CONJ
+фамилияр	NOUN
+дегиш	VERB
+жедач	VERB
+.	PUNCT
+
+Азербайджанда	NOUN
+авай	COP
+лезгийри	NOUN
+жуван	PRN
+фамилияр	NOUN
+гьихьтин	ADJ
+таз	VERB
+жеда	VERB
+.	PUNCT
+
+Хабар	NOUN
+урус	ADJ
+чӀалал	NOUN
+кхьанва	VERB
+.	PUNCT
+
+и	PRN
+мукьвара	ADV
+кьиле	NOUN
+фейи	VERB
+Паралимпиададин	ADJ
+сад	NUM
+лагьай	ORD
+юкъуз	NOUN
+дзюдоист	NOUN
+Рамин	NOUN
+Азербайжандин	NOUN
+патай	NOUN
+сад	NUM
+лагьай	ORD
+къизилдин	ADJ
+медалдин	NOUN
+сагьиб	NOUN
+хьана	VERB
+.	PUNCT
+
+Акъажунрик	VERB
+викӀегь	NOUN
+вилелди	NOUN
+кьил	NOUN
+кутур	VERB
+.	PUNCT
+
+Гьинава	INTJ
+вун	PRN
+вил	NOUN
+гала	COP
+вак	PRN
+.	PUNCT
+
+Мад	ADV
+вуч	PRN
+хабарар	NOUN
+ава	COP
+?	PUNCT
+
+Пагь	INTJ
+,	PUNCT
+вуч	PRN
+хъсан	ADJ
+недай	VERB
+я	COP
+.	PUNCT
+
+Квез	PRN
+Яран	ADJ
+Мубаракрай	VERB
+!	PUNCT
+
+Лезги	ADJ
+Интернет	NOUN
+.	PUNCT
+
+Алай	COP
+девирдин	NOUN
+инсаниятдин	NOUN
+уьмуьрда	NOUN
+Интернетди	NOUN
+къугъвазвай	VERB
+роль	NOUN
+лап	ADV
+важиблуди	ADJ
+я	COP
+.	PUNCT
+
+Са	PRN
+шумуд	PRN
+цӀуд	NUM
+йис	NOUN
+идалай	PRN
+вилик	POSTP
+варцаралди	NOUN
+давам	VERB
+жезвай	VERB
+бязи	ADJ
+кӀвалахар	NOUN
+,	PUNCT
+гьерекатар	NOUN
+.	PUNCT
+
+Лезгияр	NOUN
+!	PUNCT
+
+Килиг	PART
+ая	PART
+,	PUNCT
+ихьтин	ADJ
+хъсан	ADJ
+итимар	NOUN
+ава	COP
+чаз	PRN
+.	PUNCT
+
+Сагърай	INTJ
+!	PUNCT
+
+Самурдиз	NOUN
+талукьарна	VERB
+.	PUNCT
+
+Хуьрерик	NOUN
+дем	NOUN
+,	PUNCT
+мел	NOUN
+кумай	COP
+кьван	ADV
+,	PUNCT
+Руьгьдик	NOUN
+милли	ADJ
+кьел	NOUN
+кумай	COP
+кьван	ADV
+,	PUNCT
+Сагъ	ADJ
+я	COP
+лезги	ADJ
+халкь	NOUN
+!	PUNCT
+
+Лезгияр	NOUN
+гадаяри	NOUN
+ЦӀийи	ADJ
+символика	NOUN
+ийизва	VERB
+.	PUNCT
+
+Са	PRN
+тӀимил	NOUN
+актив	NOUN
+хьухь	NOUN
+!	PUNCT
+
+Узеир	NOUN
+Гьажибегован	NOUN
+ирсинин	NOUN
+гелеваз	NOUN
+.	PUNCT
+
+Алатай	ADJ
+асирдин	NOUN
+сифте	ADJ
+кьилера	NOUN
+чи	PRN
+ватанэгьли	NOUN
+Узеир	NOUN
+тардин	NOUN
+цӀийи	ADJ
+жанр	NOUN
+,	PUNCT
+мугъамрин	NOUN
+опера	NOUN
+арадал	NOUN
+гъана	VERB
+.	PUNCT
+
+Амма	CONJ
+алай	COP
+вахтунда	NOUN
+чи	PRN
+халкьдихъ	NOUN
+устадар	NOUN
+,	PUNCT
+Узеир	NOUN
+Гьажибегован	NOUN
+ирс	NOUN
+давамарзавайбур	VERB
+лап	PART
+тӀимил	NOUN
+ава	COP
+.	PUNCT
+
+Жегьилар	NOUN
+лагьайтӀа	VERB
+,	PUNCT
+тупӀаралди	NOUN
+гьисабиз	VERB
+жеда	VERB
+.	PUNCT
+
+Самур	NOUN
+газет	NOUN
+:	PUNCT
+вичин	PRN
+йис	NOUN
+хьанвай	VERB
+Дербент	NOUN
+вири	PRN
+дуьньядин	NOUN
+дамах	NOUN
+я	COP
+.	PUNCT
+
+Лезги	ADJ
+ВИКИпедия	NOUN
+акъайхьана	VERB
+!	PUNCT
+
+Сувар	NOUN
+квез	PRN
+мубарак	VERB
+хьурай	VERB
+!	PUNCT
+
+Мад	PART
+Са	NUM
+гатфар	NOUN
+!	PUNCT
+
+Гатфариз	NOUN
+дидедиз	NOUN
+хьайи	ADJ
+ада	PRN
+,	PUNCT
+халкьдиз	NOUN
+гьамишалух	VERB
+яз	COP
+амукьдай	VERB
+яратмишунрин	VERB
+гатфар	NOUN
+бахшна	VERB
+.	PUNCT
+
+ЦӀийи	ADJ
+поэзиядинни	NOUN
+прозадин	NOUN
+гатфар	NOUN
+.	PUNCT
+
+Гатфар	NOUN
+йисан	NOUN
+бахтавар	ADJ
+бере	NOUN
+ятӀа	CONJ
+,	PUNCT
+адан	PRN
+яратмишунар	VERB
+чи	PRN
+литературадин	ADJ
+бахтавар	ADJ
+чинар	NOUN
+я	COP
+.	PUNCT
+
+Сулейман	NOUN
+зиярат	NOUN
+авуна	VERB
+.	PUNCT
+
+августдиз	NOUN
+чи	PRN
+лезги	ADJ
+чилин	PRN
+вафалу	ADJ
+хва	NOUN
+,	PUNCT
+вичин	PRN
+жумартлувилел	NOUN
+дуьньяда	NOUN
+машгьур	ADJ
+хьанвай	VERB
+сенатор	NOUN
+Сулейман	NOUN
+,	PUNCT
+Дагъустандин	NOUN
+муфтий	NOUN
+,	PUNCT
+шейх	NOUN
+Агьмад	NOUN
+,	PUNCT
+ва	CONJ
+Дагъустандин	NOUN
+президентдин	NOUN
+везифаяр	NOUN
+вахтуналди	NOUN
+тамамарзавайди	VERB
+тир	COP
+Рамазан	NOUN
+делегациядихъ	NOUN
+галаз	POSTP
+.	PUNCT
+
+Чна	PRN
+варар	NOUN
+ахъайнай	VERB
+.	PUNCT
+
+Кьвед	NUM
+агьзурни	NUM
+цӀикьвед	NUM
+йисуз	NOUN
+Лондонда	NOUN
+Гатун	NOUN
+Къугъунрин	VERB
+Олимпиада	NOUN
+кьиле	NOUN
+фида	VERB
+.	PUNCT
+
+Вахт	NOUN
+мукьвал	ADJ
+хьунивай	VERB
+чи	PRN
+республикадин	ADJ
+спортдин	ADJ
+таъсиб	NOUN
+чӀугвазвайбурун	VERB
+къайгъуярни	NOUN
+пара	ADV
+жезва	VERB
+.	PUNCT
+
+Къедалди	ADV
+Олимпиададиз	NOUN
+кьве	NUM
+касдин	NOUN
+тӀвар	NOUN
+тайин	ADV
+хьанва	VERB
+.	PUNCT
+
+Абурукай	PRN
+сад	NUM
+таэквондочи	NOUN
+Фарида	NOUN
+я	COP
+.	PUNCT
+
+лезги	ADJ
+чӀалал	NOUN
+рахазвайбуруз	VERB
+сагърай	INTJ
+лугьун	VERB
+!	PUNCT
+
+Кьвед	NUM
+лагьай	ORD
+зун	PRN
+.	PUNCT
+
+Хьана	VERB
+кьван	PART
+,	PUNCT
+хьанач	VERB
+кьван	PART
+са	NUM
+руш	NOUN
+.	PUNCT
+
+Ам	PRN
+са	NUM
+тама	NOUN
+авай	COP
+хуьре	NOUN
+яшамиш	VERB
+жезвай	VERB
+.	PUNCT
+
+Гуьлперизиз	NOUN
+пара	NOUN
+бегенмиш	ADJ
+афарар	NOUN
+ва	CONJ
+хинкӀар	NOUN
+,	PUNCT
+адаз	PRN
+абур	PRN
+гьар	PRN
+юкъуз	NOUN
+канзай	NOUN
+.	PUNCT
+
+Адан	PRN
+къеняй	POSTP
+сес	VERB
+рахазвай	VERB
+.	PUNCT
+
+Сесинин	NOUN
+тӀвар	NOUN
+Гуьлзада	NOUN
+.	PUNCT
+
+Ада	PRN
+лугьузвай	VERB
+рушаз	NOUN
+чӀуру	ADJ
+затӀар	NOUN
+,	PUNCT
+адани	PRN
+гьамиша	ADV
+инсанриз	NOUN
+чӀуру	ADJ
+крар	NOUN
+извай	VERB
+.	PUNCT
+
+Гьавиляй	CONJ
+маса	ADJ
+инсанриз	NOUN
+Гуьлзада	NOUN
+бегенмиш	ADJ
+тушир	COP
+,	PUNCT
+амма	CONJ
+абуруз	PRN
+чизвай	VERB
+Гуьлпери	NOUN
+хъсан	ADJ
+руш	NOUN
+.	PUNCT
+
+Са	NUM
+юкъуз	NOUN
+рушаз	NOUN
+бизар	VERB
+хьана	VERB
+жуван	PRN
+къене	ADV
+авай	COP
+сес	NOUN
+.	PUNCT
+
+Адаз	PRN
+куьмек	NOUN
+гуз	VERB
+жедай	VERB
+са	PRN
+насигьатчи	NOUN
+чизвай	VERB
+.	PUNCT
+
+Амма	CONJ
+ахьтин	ADJ
+авай	COP
+хьи	PART
+,	PUNCT
+насигьатчи	NOUN
+пара	NOUN
+яргъа	ADV
+яшамиш	VERB
+жезвай	VERB
+:	PUNCT
+маса	ADJ
+хуьре	NOUN
+,	PUNCT
+маса	ADJ
+тама	NOUN
+.	PUNCT
+
+Рушаз	NOUN
+пара	NOUN
+кичӀе	NOUN
+маса	ADJ
+тамуз	NOUN
+физ	VERB
+.	PUNCT
+
+Гуьлпери	NOUN
+фяна	VERB
+жуван	PRN
+яргъи	ADJ
+рекъиз	NOUN
+.	PUNCT
+
+Эвела	ADV
+адаз	PRN
+герек	ADJ
+вацӀун	NOUN
+маса	ADJ
+патаз	NOUN
+физ	VERB
+.	PUNCT
+
+ВацӀун	NOUN
+патаг	POSTP
+са	NUM
+луьтквечи	NOUN
+.	PUNCT
+
+
+Ахпа	ADV
+адаз	PRN
+герек	ADJ
+тама	NOUN
+насигьатчидин	NOUN
+хуьр	NOUN
+акваз	VERB
+.	PUNCT
+
+Тама	NOUN
+авай	COP
+чубанди	NOUN
+куьмек	NOUN
+гана	VERB
+.	PUNCT
+
+Гуьлперизиз	NOUN
+а	PRN
+кар	NOUN
+пара	NOUN
+четин	ADJ
+,	PUNCT
+амма	CONJ
+адаз	PRN
+канзавай	VERB
+хъсан	ADJ
+инсан	NOUN
+хьана	VERB
+.	PUNCT
+
+Гуьлперизиз	NOUN
+куьмек	NOUN
+гузвай	VERB
+.	PUNCT
+
+Гьар	PRN
+юкъуз	NOUN
+рушаз	NOUN
+четин	ADJ
+жезвай	VERB
+.	PUNCT
+
+Руш	NOUN
+хъфяна	VERB
+жуван	PRN
+хуьруьз	NOUN
+,	PUNCT
+вирибуруз	PRN
+хвеши	ADJ
+хьана	VERB
+.	PUNCT
+
+Ам	PRN
+хуьре	NOUN
+авай	COP
+гьар	PRN
+инсандиз	NOUN
+бегенмиш	ADJ
+.	PUNCT
+
+Хьана	VERB
+кьван	ADV
+,	PUNCT
+хьанач	VERB
+кьван	ADV
+тама	NOUN
+са	NUM
+жанавуррин	NOUN
+хизан	NOUN
+;	PUNCT
+жанавур	NOUN
+буба	NOUN
+,	PUNCT
+жанавур	NOUN
+диде	NOUN
+,	PUNCT
+жанавур	NOUN
+аял	NOUN
+.	PUNCT
+
+Жанавур	NOUN
+буба	NOUN
+гьамиша	ADV
+куьчейра	NOUN
+авай	COP
+.	PUNCT
+
+Жанавур	NOUN
+аялдивай	NOUN
+,	PUNCT
+тӀвар	NOUN
+алай	COP
+,	PUNCT
+вичин	PRN
+дидени	NOUN
+буба	NOUN
+галачиз	COP
+жедачир	VERB
+.	PUNCT
+
+Ам	PRN
+садрахни	NOUN
+къециз	NOUN
+текдаказ	ADV
+акъучӀначир	VERB
+.	PUNCT
+
+Ай	INTJ
+бала	NOUN
+,	PUNCT
+вун	PRN
+са	NUM
+сеферни	NOUN
+тамуз	NOUN
+кьван	ADV
+?	PUNCT
+
+Эхь	INTJ
+,	PUNCT
+буба	NOUN
+!	PUNCT
+
+Гила	ADV
+вун	PRN
+чӀехи	ADJ
+жезва	VERB
+,	PUNCT
+са	NUM
+кьадар	NOUN
+вахт	NOUN
+алатайла	VERB
+,	PUNCT
+текдаказ	ADV
+яшамиш	VERB
+жеда	VERB
+.	PUNCT
+
+Адаз	PRN
+инсанар	NOUN
+,	PUNCT
+север	NOUN
+физвай	VERB
+хъсан	ADJ
+гьина	ADV
+чизвай	VERB
+.	PUNCT
+
+Дадуниз	NOUN
+килигна	VERB
+,	PUNCT
+ун	PART
+,	PUNCT
+абурун	PRN
+ширинвал	NOUN
+,	PUNCT
+гаф	NOUN
+амач	COP
+!	PUNCT
+
+Адаз	PRN
+кичӀе	NOUN
+хьана	VERB
+,	PUNCT
+са	NUM
+таран	NOUN
+ацукьна	VERB
+.	PUNCT
+
+Са	NUM
+хабарар	NOUN
+ахъайзавай	VERB
+.	PUNCT
+
+И	PRN
+хабарар	NOUN
+хъсан	ADJ
+акунач	VERB
+,	PUNCT
+ам	PRN
+катна	VERB
+,	PUNCT
+калтугна	VERB
+.	PUNCT
+
+И	PRN
+цӀугъ	VERB
+дидедизни	NOUN
+бубадиз	NOUN
+хьена	VERB
+.	PUNCT
+
+Са	NUM
+кьадар	NOUN
+вахт	NOUN
+алатайла	VERB
+,	PUNCT
+дидеди	NOUN
+хабар	NOUN
+кьуна	VERB
+.	PUNCT
+
+Хабар	NOUN
+кьуна	VERB
+бубади	NOUN
+.	PUNCT
+
+ХинкӀар	NOUN
+нез	VERB
+эгечӀна	VERB
+.	PUNCT
+
+Кацин	NOUN
+рикӀ	NOUN
+.	PUNCT
+
+Аниз	ADV
+инсанар	NOUN
+хкъвезмачир	VERB
+.	PUNCT
+
+Фяна	VERB
+са	NUM
+йис	NOUN
+,	PUNCT
+амма	CONJ
+и	PRN
+мягьле	NOUN
+амай	COP
+.	PUNCT
+
+И	PRN
+кац	NOUN
+адан	PRN
+патаг	POSTP
+фяна	VERB
+ацукьна	VERB
+.	PUNCT
+
+Мяу	INTJ
+!	PUNCT
+
+Вун	PRN
+вуж	PRN
+я	COP
+?	PUNCT
+
+Мяу	INTJ
+!	PUNCT
+
+Чун	PRN
+юлдашар	NOUN
+жен	VERB
+?	PUNCT
+
+Мяу	INTJ
+!	PUNCT
+
+И	PRN
+кацер	NOUN
+хъсан	ADJ
+юлдашар	NOUN
+хьана	VERB
+.	PUNCT
+
+Фяна	VERB
+са	NUM
+варз	NOUN
+.	PUNCT
+
+Саламалейкум	INTJ
+!	PUNCT
+
+Чна	PRN
+и	PRN
+приют	NOUN
+утхаризва	VERB
+.	PUNCT
+
+И	PRN
+приют	NOUN
+утхарна	VERB
+.	PUNCT
+
+Кьве	NUM
+кац	NOUN
+сад	NUM
+садавай	NUM
+къакъудна	VERB
+.	PUNCT
+
+И	PRN
+кациз	NOUN
+кац	NOUN
+акваз	VERB
+кан	NOUN
+хьана	VERB
+,	PUNCT
+амма	CONJ
+маса	ADJ
+патариз	NOUN
+акъатна	VERB
+.	PUNCT
+
+Кациз	NOUN
+амай	COP
+хьана	VERB
+хъфяна	VERB
+.	PUNCT
+
+Физ	VERB
+чилел	NOUN
+ацукьна	VERB
+.	PUNCT
+
+Са	NUM
+чакъал	NOUN
+адан	PRN
+дидени	NOUN
+буба	NOUN
+.	PUNCT
+
+Хьана	VERB
+кьван	ADV
+.	PUNCT
+
+Хьанач	VERB
+кьван	ADV
+са	NUM
+чакъал	NOUN
+.	PUNCT
+
+Адан	PRN
+пуд	NUM
+юс	NOUN
+хьана	VERB
+.	PUNCT
+
+Адаз	PRN
+вичиз	PRN
+са	NUM
+паб	NOUN
+кан	NOUN
+хьанвай	VERB
+.	PUNCT
+
+Вад	NUM
+варз	NOUN
+кьван	ADV
+алатайла	VERB
+,	PUNCT
+гакьуна	VERB
+паб	NOUN
+.	PUNCT
+
+Чакъални	NOUN
+рази	ADJ
+хьана	VERB
+.	PUNCT
+
+Са	NUM
+кьадар	NOUN
+гьафтеяр	NOUN
+алатайла	VERB
+.	PUNCT
+
+Ша	VERB
+,	PUNCT
+лагьана	VERB
+,	PUNCT
+рази	ADJ
+хьана	VERB
+.	PUNCT
+
+Чакъални	NOUN
+аял	NOUN
+атана	VERB
+,	PUNCT
+тух	ADJ
+хьана	VERB
+.	PUNCT
+
+Пудкъад	NUM
+йисар	NOUN
+алатайла	VERB
+,	PUNCT
+чакъални	NOUN
+адан	PRN
+паб	NOUN
+фена	VERB
+.	PUNCT
+
+Абурун	PRN
+аял	NOUN
+амукьна	VERB
+.	PUNCT
+
+Инал	ADV
+зи	PRN
+мах	NOUN
+куьтягь	VERB
+хьана	VERB
+.	PUNCT
+
+Кьифни	NOUN
+кац	NOUN
+.	PUNCT
+
+Хьана	VERB
+кьван	ADV
+,	PUNCT
+хьанач	VERB
+кьван	ADV
+са	NUM
+кьифни	NOUN
+кац	NOUN
+.	PUNCT
+
+Гьамиша	ADV
+катунар	VERB
+ийизвай	VERB
+.	PUNCT
+
+Са	NUM
+юкъуз	NOUN
+кац	NOUN
+ксанвайла	VERB
+,	PUNCT
+кьиф	NOUN
+патаг	POSTP
+атана	VERB
+.	PUNCT
+
+Абур	PRN
+катна	VERB
+бахчайрай	NOUN
+,	PUNCT
+куьчейрай	NOUN
+.	PUNCT
+
+Калтугна	VERB
+кац	NOUN
+калтугна	VERB
+,	PUNCT
+галатна	VERB
+.	PUNCT
+
+Ахпа	ADV
+ам	PRN
+са	NUM
+ацукьна	VERB
+,	PUNCT
+яд	ADJ
+кан	NOUN
+хьана	VERB
+.	PUNCT
+
+Каци	NOUN
+кьифрез	NOUN
+лагьана	VERB
+:	PUNCT
+Я	PART
+кьиф	NOUN
+,	PUNCT
+вуна	PRN
+ийизва	VERB
+?	PUNCT
+
+Я	PART
+кац	NOUN
+,	PUNCT
+заз	PRN
+къугъваз	VERB
+канзава	VERB
+хьи	PART
+.	PUNCT
+
+Зи	PRN
+тахсир	NOUN
+вуч	PRN
+?	PUNCT
+
+Лагьана	VERB
+каци	NOUN
+.	PUNCT
+
+Кьифрез	NOUN
+хвеши	ADJ
+хьана	VERB
+,	PUNCT
+ахпа	ADV
+санал	ADV
+къугъваз	VERB
+агучӀна	VERB
+.	PUNCT
+
+Къугъвана	VERB
+,	PUNCT
+къугъвана	VERB
+,	PUNCT
+ахпа	ADV
+галатна	VERB
+.	PUNCT
+
+Акуна	VERB
+абуруз	PRN
+холодильник	NOUN
+.	PUNCT
+
+Душманрикай	NOUN
+виридалайни	NOUN
+дустар	NOUN
+хьана	VERB
+.	PUNCT
+
+Месела	ADV
+,	PUNCT
+адаз	PRN
+лув	NOUN
+гудай	VERB
+физ	VERB
+канзавай	VERB
+.	PUNCT
+
+Ахпа	ADV
+ам	PRN
+чӀехи	ADJ
+хьана	VERB
+.	PUNCT
+
+Са	PRN
+шумуд	PRN
+йис	NOUN
+алатна	VERB
+хтайла	VERB
+.	PUNCT
+
+Рушаз	NOUN
+кичӀе	NOUN
+хьана	VERB
+.	PUNCT
+
+Ана	ADV
+са	PRN
+зарарлу	ADJ
+тир	COP
+пират	NOUN
+ацукьнавай	VERB
+.	PUNCT
+
+Я	PART
+руш	NOUN
+!	PUNCT
+
+Гьай	INTJ
+!	PUNCT
+
+Гьана	ADV
+югъ	NOUN
+акъудна	VERB
+,	PUNCT
+ахпа	ADV
+ам	PRN
+нянихъ	NOUN
+къарагъна	VERB
+.	PUNCT
+
+Алима	NOUN
+элкъвей	ADJ
+килигайла	VERB
+,	PUNCT
+къвезвай	VERB
+.	PUNCT
+
+Вун	PRN
+пират	NOUN
+яни	PART
+?	PUNCT
+
+А	PRN
+,	PUNCT
+ваз	PRN
+чир	VERB
+хьана	VERB
+?	PUNCT
+
+ГьикӀ	ADV
+я	COP
+?	PUNCT
+
+Вегь	VERB
+!	PUNCT
+
+Им	PRN
+вун	PRN
+я	COP
+?	PUNCT
+
+Я	COP
+Алима	NOUN
+вах	NOUN
+.	PUNCT
+
+ваз	PRN
+зи	PRN
+тӀвар	NOUN
+финай	VERB
+чизва	VERB
+?	PUNCT
+
+
+Хьана	VERB
+кьван	ADV
+,	PUNCT
+хьанач	VERB
+кьван	ADV
+са	NUM
+гада	NOUN
+.	PUNCT
+
+Сад	NUM
+лагьай	ORD
+юкъуз	NOUN
+адан	PRN
+кьил	NOUN
+акьуна	VERB
+.	PUNCT
+
+Кьвед	NUM
+лагьай	ORD
+юкъуз	NOUN
+кьил	NOUN
+акьуна	VERB
+.	PUNCT
+
+Пуд	NUM
+лагьай	ORD
+юкъуз	NOUN
+аватна	VERB
+,	PUNCT
+телефонни	NOUN
+хана	VERB
+.	PUNCT
+
+Са	PRN
+юкъуз	NOUN
+ам	PRN
+акъатна	VERB
+.	PUNCT
+
+Ахпа	ADV
+еке	ADJ
+инсанрин	NOUN
+атана	VERB
+.	PUNCT
+
+Вири	PRN
+кьушунар	NOUN
+ва	CONJ
+аскерар	NOUN
+хуьз	VERB
+амукьна	VERB
+.	PUNCT
+
+Хьана	VERB
+-	PUNCT
+хьанач	VERB
+кьван	ADV
+са	NUM
+гада	NOUN
+.	PUNCT
+
+Адан	PRN
+тӀвар	NOUN
+Фаргьад	NOUN
+тир	COP
+.	PUNCT
+
+Гатун	ADJ
+каникулар	NOUN
+хьайила	VERB
+,	PUNCT
+Фаргьад	NOUN
+хуьруьз	NOUN
+хъфена	VERB
+.	PUNCT
+
+Хуьре	NOUN
+адан	PRN
+буба	NOUN
+Али	NOUN
+.	PUNCT
+
+Зунни	PRN
+къведа	VERB
+,	PUNCT
+буба	NOUN
+,	PUNCT
+лагьана	VERB
+Фаргьада	NOUN
+.	PUNCT
+
+Бубади	NOUN
+лагьана	VERB
+.	PUNCT
+
+Гададиз	NOUN
+жанавурдихъай	NOUN
+хьана	VERB
+.	PUNCT
+
+Гадаяр	NOUN
+.	PUNCT
+
+За	PRN
+жанавур	NOUN
+гатана	VERB
+,	PUNCT
+лагьана	VERB
+гадади	NOUN
+.	PUNCT
+
+За	PRN
+садрахни	NOUN
+тапарар	VERB
+хъийидач	VERB
+.	PUNCT
+
+А	PRN
+руш	NOUN
+гуьрчегди	ADJ
+тир	COP
+.	PUNCT
+
+Абуру	PRN
+рушаз	NOUN
+чпин	PRN
+сирер	NOUN
+ахъайзавай	VERB
+.	PUNCT
+
+Играми	ADJ
+кӀелдайбур	VERB
+!	PUNCT
+
+Адаз	PRN
+гагь	ADV
+гагь	ADV
+Ктабрин	NOUN
+Ктабни	NOUN
+лугьуда	VERB
+.	PUNCT
+
+Вучиз	ADV
+?	PUNCT
+
+Сад	NUM
+лагьайди	VERB
+ва	CONJ
+важиблуди	ADJ
+ам	PRN
+я	COP
+хьи	PART
+.	PUNCT
+
+Ам	PRN
+инсанар	NOUN
+паталди	POSTP
+лагьанвай	VERB
+Аллагьдин	NOUN
+Гаф	NOUN
+я	COP
+.	PUNCT
+
+Ктабдин	NOUN
+чарарай	NOUN
+чаз	PRN
+Аллагьдин	NOUN
+Керемат	NOUN
+ва	CONJ
+и	PRN
+Керемат	NOUN
+кьабулнавай	VERB
+инсанрин	NOUN
+жанлу	ADJ
+ванер	NOUN
+къвезва	VERB
+.	PUNCT
+
+Библиядин	NOUN
+гзаф	ADV
+паяр	VERB
+-	PUNCT
+Таврат	NOUN
+,	PUNCT
+Забур	NOUN
+,	PUNCT
+Инжил	NOUN
+-	PUNCT
+мусурманар	NOUN
+патални	NOUN
+пак	ADJ
+я	COP
+.	PUNCT
+
+Амма	CONJ
+Аллагьди	NOUN
+инсан	NOUN
+вичин	PRN
+муьгьуьббатдикайни	NOUN
+авунач	VERB
+.	PUNCT
+
+Ада	PRN
+чин	NOUN
+вичихъ	PRN
+элкъуьрай	VERB
+вирибурун	PRN
+эверунриз	VERB
+гьамиша	ADV
+жаваб	NOUN
+гузва	VERB
+.	PUNCT
+
+Дуьньядин	NOUN
+вири	PRN
+халкьарин	NOUN
+арадай	POSTP
+ада	PRN
+са	NUM
+халкь	NOUN
+.	PUNCT
+
+И	PRN
+халкьдин	ADJ
+ва	CONJ
+адан	PRN
+пайгъамбаррин	NOUN
+тарих	NOUN
+къадим	ADJ
+икьрардин	NOUN
+кьилин	NOUN
+тема	NOUN
+я	COP
+.	PUNCT
+
+Къадим	ADJ
+Икьрардик	NOUN
+жуьреба	ADV
+жуьре	NOUN
+ктабар	NOUN
+акатзава	VERB
+.	PUNCT
+
+А	PRN
+кас	NOUN
+и	PRN
+ктабда	NOUN
+кхьенвай	VERB
+пак	ADJ
+шегьердиз	NOUN
+гьахьдач	VERB
+ва	CONJ
+ада	PRN
+ана	ADV
+авай	COP
+уьмуьр	NOUN
+гудай	VERB
+тарарин	NOUN
+емишар	NOUN
+недач	VERB
+.	PUNCT
+
+И	PRN
+вири	PRN
+крарикай	NOUN
+шагьидвал	VERB
+ийизвай	VERB
+Исади	NOUN
+квез	PRN
+лугьузва	VERB
+:	PUNCT
+
+Эхь	INTJ
+,	PUNCT
+Зун	PRN
+гьа	PRN
+и	PRN
+мукьвара	ADV
+хкведа	VERB
+.	PUNCT
+
+Амин	INTJ
+.	PUNCT
+
+Худа	NOUN
+Иса	NOUN
+!	PUNCT
+
+Квез	PRN
+виридаз	PRN
+Худа	NOUN
+Исади	NOUN
+регьим	NOUN
+ийиз	VERB
+хьурай	VERB
+.	PUNCT
+
+Амин	INTJ
+.	PUNCT
+
+Абурукай	PRN
+садбуру	NUM
+Исраилдин	NOUN
+тарихдикай	NOUN
+,	PUNCT
+маса	ADJ
+халкьарикай	NOUN
+ва	CONJ
+дегь	ADJ
+замандин	NOUN
+вакъиайрикай	NOUN
+ихтилатзава	VERB
+.	PUNCT
+
+Ихьтинбуруз	ADJ
+тарихдин	NOUN
+ктабар	NOUN
+лугьузва	VERB
+.	PUNCT
+
+Масабура	ADJ
+-	PUNCT
+ктабра	NOUN
+-	PUNCT
+пайгъамбарри	NOUN
+жуван	PRN
+Аллагьдиз	NOUN
+хуьн	VERB
+паталди	POSTP
+гузвай	VERB
+ва	CONJ
+къведай	VERB
+девиррин	NOUN
+сирлу	ADJ
+вакъиайрикай	NOUN
+рахазвай	VERB
+ялавлу	ADJ
+ихтилатар	NOUN
+,	PUNCT
+дуьздал	ADV
+акъудунар	VERB
+ва	CONJ
+виликамаз	ADV
+гьатнава	VERB
+.	PUNCT
+
+Къадим	ADJ
+икьрарда	NOUN
+поэзиядин	NOUN
+ктабарни	NOUN
+ава	COP
+,	PUNCT
+месела	ADV
+,	PUNCT
+Забур	NOUN
+-	PUNCT
+манийринни	NOUN
+дуьайрин	NOUN
+ктаб	NOUN
+я	COP
+.	PUNCT
+
+Икьрар	NOUN
+чи	PRN
+эра	NOUN
+сад	NUM
+лагьай	ORD
+асирдин	NOUN
+кьвед	NUM
+лагьай	ORD
+къадим	ADJ
+грек	ADJ
+чӀалалди	ADJ
+кхьенва	VERB
+.	PUNCT
+
+Ана	ADV
+Иса	NOUN
+дидедиз	NOUN
+хьуникай	VERB
+,	PUNCT
+ада	PRN
+къуллугъ	NOUN
+авуникай	VERB
+,	PUNCT
+адан	PRN
+кьиникьикай	NOUN
+ва	CONJ
+адал	PRN
+хтуникай	VERB
+,	PUNCT
+ада	PRN
+бине	NOUN
+кутунвай	VERB
+сифтегьан	ADJ
+камарикай	NOUN
+физва	VERB
+.	PUNCT
+
+Икьрардин	NOUN
+сад	NUM
+лагьай	ORD
+кьуд	NUM
+ктабдиз	NOUN
+гьа	PRN
+ихьтин	ADJ
+ганва	VERB
+.	PUNCT
+
+Абуру	PRN
+Исади	NOUN
+чилел	NOUN
+кьиле	NOUN
+тухвай	VERB
+уьмуьрдикай	NOUN
+ва	CONJ
+адан	PRN
+ихтилатзава	VERB
+.	PUNCT
+
+гуьгъуьнин	ADJ
+Ктабни	NOUN
+-	PUNCT
+илчийрин	NOUN
+Крарни	NOUN
+-	PUNCT
+кхьенвайди	VERB
+я	COP
+.	PUNCT
+
+Ана	ADV
+Исадин	NOUN
+сад	NUM
+лагьай	ORD
+терефдаррикай	NOUN
+,	PUNCT
+адал	PRN
+чан	NOUN
+хтайдалай	VERB
+абуру	PRN
+кьилиз	NOUN
+акъудай	VERB
+крарикай	NOUN
+ихтилатзава	VERB
+.	PUNCT
+
+Икьрардин	NOUN
+эхиримжи	ADJ
+ктаб	NOUN
+-	PUNCT
+Керемат	NOUN
+-	PUNCT
+манадал	NOUN
+гьалтайла	VERB
+пайгъамбарвилин	NOUN
+ктаб	NOUN
+я	COP
+.	PUNCT
+
+Ада	PRN
+дуьньядин	NOUN
+ва	CONJ
+тарихдин	NOUN
+эхирдикай	NOUN
+кхьенва	VERB
+:	PUNCT
+инсанар	NOUN
+гьикьван	ADV
+бедбахтвилерал	NOUN
+дуьшуьш	NOUN
+,	PUNCT
+са	NUM
+юкъуз	NOUN
+а	PRN
+куьтягь	VERB
+жеда	VERB
+.	PUNCT
+
+"	PUNCT
+Библиядин	NOUN
+шикилар	NOUN
+"	PUNCT
+тӀвар	NOUN
+ганвай	VERB
+чи	PRN
+ктабда	NOUN
+ам	PRN
+туькӀуьрайбуру	VERB
+чпин	PRN
+гафаралди	NOUN
+хъувунвай	VERB
+ва	CONJ
+хкянавай	VERB
+Библиядин	NOUN
+текстерай	NOUN
+къачунвай	VERB
+гьатнава	VERB
+.	PUNCT
+
+"	PUNCT
+Библиядин	NOUN
+шикилар	NOUN
+"	PUNCT
+Аллагьдин	NOUN
+Гафунихъ	NOUN
+ялзавай	VERB
+-	PUNCT
+уьмуьр	NOUN
+тирвал	ADV
+физ	VERB
+жедай	VERB
+-	PUNCT
+сад	NUM
+лагьай	ORD
+кам	NOUN
+жедайдахъ	VERB
+чун	PRN
+инанмиш	VERB
+я	COP
+.	PUNCT
+
+Библиядин	NOUN
+таржумайрин	NOUN
+институтдин	NOUN
+къуллугъэгьлияр	NOUN
+.	PUNCT
+
+Аллагьди	NOUN
+дуьнья	NOUN
+халкь	NOUN
+авун	VERB
+.	PUNCT
+
+А	PRN
+чӀавуз	NOUN
+я	COP
+са	NUM
+кьал	NOUN
+,	PUNCT
+я	COP
+са	NUM
+тар	NOUN
+,	PUNCT
+я	COP
+иер	ADJ
+цуьквер	NOUN
+,	PUNCT
+я	COP
+къушар	NOUN
+авачир	COP
+.	PUNCT
+
+Гьатта	PART
+я	COP
+цавни	NOUN
+,	PUNCT
+я	COP
+чилни	NOUN
+авачир	COP
+.	PUNCT
+
+Вири	PRN
+алем	NOUN
+кьилиз	NOUN
+ва	CONJ
+къайдасуз	ADJ
+тир	COP
+.	PUNCT
+
+Амма	CONJ
+Аллагьдиз	NOUN
+амукьна	VERB
+хьанач	VERB
+.	PUNCT
+
+Ада	PRN
+и	PRN
+иер	ADJ
+дуьнья	NOUN
+халкь	NOUN
+авуна	VERB
+.	PUNCT
+
+Гьа	PRN
+и	PRN
+дуьньяди	NOUN
+камаллу	ADJ
+зурба	ADJ
+крарикай	NOUN
+шагьидвалзава	VERB
+.	PUNCT
+
+Библия	NOUN
+лугьудай	VERB
+пак	ADJ
+ктаб	NOUN
+ава	COP
+.	PUNCT
+
+Ана	ADV
+Аллагьдин	NOUN
+Гафуни	NOUN
+дуьнья	NOUN
+халкь	NOUN
+кхьенва	VERB
+.	PUNCT
+
+эвелни	NOUN
+эвел	NOUN
+Аллагьди	NOUN
+цавни	NOUN
+чил	NOUN
+халкь	NOUN
+авуна	VERB
+.	PUNCT
+
+Чил	NOUN
+къайдасуз	ADJ
+тир	COP
+.	PUNCT
+
+Аллагьди	NOUN
+лагьана	VERB
+:	PUNCT
+Къуй	PART
+экв	NOUN
+хьурай	VERB
+.	PUNCT
+
+Экуь	ADJ
+хьана	VERB
+.	PUNCT
+
+Аллагь	NOUN
+килигайтӀа	VERB
+,	PUNCT
+экв	NOUN
+хъсан	ADJ
+я	COP
+.	PUNCT
+
+Аллагьди	NOUN
+экв	NOUN
+чара	NOUN
+авуна	VERB
+.	PUNCT
+
+Няни	NOUN
+хьана	VERB
+,	PUNCT
+ахпа	ADV
+пакама	NOUN
+алукьна	VERB
+.	PUNCT
+
+Им	PRN
+сад	NUM
+лагьай	ORD
+югъ	NOUN
+тир	COP
+.	PUNCT
+
+Аллагьди	NOUN
+лагьана	VERB
+:	PUNCT
+къуй	PART
+цин	ADJ
+са	NUM
+бушлух	ADJ
+халкь	NOUN
+хьурай	VERB
+.	PUNCT
+
+Гьа	PRN
+Аллагьди	NOUN
+бушлух	ADJ
+яратмишна	VERB
+.	PUNCT
+
+Няни	NOUN
+хьана	VERB
+,	PUNCT
+ахпа	ADV
+пакама	NOUN
+алукьна	VERB
+.	PUNCT
+
+Им	PRN
+кьвед	NUM
+лагьай	ORD
+югъ	NOUN
+тир	COP
+.	PUNCT
+
+Аллагьди	NOUN
+лагьана	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+къураматдиз	NOUN
+чил	NOUN
+лагьана	VERB
+.	PUNCT
+
+Яд	ADJ
+хьайи	ADJ
+чкайриз	NOUN
+гьуьлер	NOUN
+лагьана	VERB
+.	PUNCT
+
+Им	PRN
+хъсан	ADJ
+кар	NOUN
+я	COP
+.	PUNCT
+
+Няни	NOUN
+хьана	VERB
+,	PUNCT
+ахпа	ADV
+пакама	NOUN
+алукьна	VERB
+.	PUNCT
+
+Им	PRN
+пуд	NUM
+лагьай	ORD
+югъ	NOUN
+тир	COP
+.	PUNCT
+
+Аллагьди	NOUN
+дуьнья	NOUN
+халкь	NOUN
+авун	VERB
+.	PUNCT
+
+Къуй	PART
+абуру	PRN
+йиф	NOUN
+йикъакай	NOUN
+чара	NOUN
+авурай	VERB
+.	PUNCT
+
+Къуй	PART
+абурукай	PRN
+вахт	NOUN
+къалурдай	VERB
+лишанар	NOUN
+хьурай	VERB
+,	PUNCT
+къуй	PART
+абуру	PRN
+йикъаар	NOUN
+.	PUNCT
+
+Къуй	PART
+абурукай	PRN
+бушлухдай	ADJ
+чилиз	NOUN
+экв	NOUN
+гудай	VERB
+чирагъар	NOUN
+хьурай	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+зурба	ADJ
+кьве	NUM
+чирагъ	NOUN
+халкь	NOUN
+авуна	VERB
+:	PUNCT
+сад	NUM
+йикъал	NOUN
+ийидай	VERB
+чирагъ	NOUN
+.	PUNCT
+
+Аллагьди	NOUN
+чирагъар	NOUN
+бушлухда	ADJ
+эцигна	VERB
+.	PUNCT
+
+Абуру	PRN
+чилиз	NOUN
+экв	NOUN
+гана	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+чирагърив	NOUN
+югъни	NOUN
+йиф	NOUN
+идара	NOUN
+ийиз	VERB
+ва	CONJ
+экв	NOUN
+чара	NOUN
+ийиз	VERB
+туна	VERB
+.	PUNCT
+
+им	PRN
+хъсан	ADJ
+кар	NOUN
+я	COP
+.	PUNCT
+
+Няни	NOUN
+хьана	VERB
+,	PUNCT
+ахпа	ADV
+пакама	NOUN
+алукьна	VERB
+.	PUNCT
+
+Им	PRN
+кьуд	NUM
+лагьай	ORD
+югъ	NOUN
+тир	COP
+.	PUNCT
+
+Аллагьди	NOUN
+лагьана	VERB
+:	PUNCT
+къуй	PART
+чурчулар	NOUN
+хьурай	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+балугъар	NOUN
+,	PUNCT
+цин	ADJ
+чурчулар	NOUN
+,	PUNCT
+къушар	NOUN
+ва	CONJ
+маса	ADJ
+гьайванар	NOUN
+гьар	PRN
+сад	NUM
+чпин	PRN
+жинсинив	NOUN
+кьадайвал	VERB
+халкьна	VERB
+.	PUNCT
+
+им	PRN
+хъсан	ADJ
+кар	NOUN
+я	COP
+.	PUNCT
+
+Аллагьди	NOUN
+лагьана	VERB
+:	PUNCT
+куьне	PRN
+куь	PRN
+тум	NOUN
+ва	CONJ
+кьадар	NOUN
+артух	ADJ
+ая	PART
+.	PUNCT
+
+Ада	PRN
+балугъриз	NOUN
+гьуьлер	NOUN
+,	PUNCT
+чилер	NOUN
+ая	PART
+лагьана	VERB
+.	PUNCT
+
+Гьа	PRN
+Аллагьди	NOUN
+абуруз	PRN
+виридаз	PRN
+нуьсрет	NOUN
+гана	VERB
+.	PUNCT
+
+Няни	NOUN
+хьана	VERB
+,	PUNCT
+ахпа	ADV
+пакама	NOUN
+алукьна	VERB
+.	PUNCT
+
+Им	PRN
+вад	NUM
+лагьай	ORD
+югъ	NOUN
+тир	COP
+.	PUNCT
+
+Аллагьди	NOUN
+лагьана	VERB
+:	PUNCT
+къуй	PART
+чилел	NOUN
+гьар	PRN
+сад	NUM
+чпин	PRN
+жинсинив	NOUN
+кьадайвал	VERB
+гьайванар	NOUN
+,	PUNCT
+ничхирар	NOUN
+ва	CONJ
+гъуьлягъар	NOUN
+арадал	NOUN
+атурай	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+чилел	NOUN
+гьар	PRN
+сад	NUM
+чпин	PRN
+жинсинив	NOUN
+кьадайвал	VERB
+гьайванар	NOUN
+,	PUNCT
+ничхирар	NOUN
+ва	CONJ
+гъуьлягъар	NOUN
+халкьна	VERB
+.	PUNCT
+
+Им	PRN
+хъсан	ADJ
+кар	NOUN
+я	COP
+.	PUNCT
+
+Умундиз	ADV
+нефес	NOUN
+къачузвай	VERB
+чилел	NOUN
+алайди	ADJ
+аламатдин	ADJ
+тир	COP
+гуьзелвал	NOUN
+.	PUNCT
+
+Им	PRN
+дуьнья	NOUN
+халкь	NOUN
+хьунин	VERB
+гьеле	ADV
+тушир	COP
+.	PUNCT
+
+Аллагьди	NOUN
+и	PRN
+гуьзел	ADJ
+дуьньяда	NOUN
+яшамиш	VERB
+инсанар	NOUN
+халкь	NOUN
+авун	VERB
+кьетӀнавай	VERB
+.	PUNCT
+
+Дуьнья	NOUN
+халкь	NOUN
+авун	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+сифтегьан	ADJ
+инсанар	NOUN
+халкь	NOUN
+авун	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+лагьана	VERB
+чна	PRN
+чи	PRN
+шикилда	NOUN
+аваз	COP
+,	PUNCT
+чаз	PRN
+ухшар	NOUN
+яз	COP
+инсан	NOUN
+халкь	NOUN
+ийида	VERB
+.	PUNCT
+
+Къуй	PART
+ада	PRN
+авай	COP
+балугърал	NOUN
+,	PUNCT
+цава	NOUN
+авай	COP
+къушарал	NOUN
+.	PUNCT
+
+Чилел	NOUN
+алай	COP
+гьайванрални	NOUN
+ничхиррал	NOUN
+ва	CONJ
+чилел	NOUN
+.	PUNCT
+
+Ада	PRN
+итимни	NOUN
+дишегьли	NOUN
+халкь	NOUN
+авуна	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+итимдизни	NOUN
+дишегьлидиз	NOUN
+лагьана	VERB
+:	PUNCT
+куьне	PRN
+куь	PRN
+тум	NOUN
+ва	CONJ
+куь	PRN
+кьадар	NOUN
+мадни	ADV
+артухара	VERB
+.	PUNCT
+
+Гьа	PRN
+Аллагьди	NOUN
+абуруз	PRN
+нуьсрет	NOUN
+гана	VERB
+.	PUNCT
+
+Ада	PRN
+лагьана	VERB
+:	PUNCT
+Ингье	PART
+за	PRN
+квез	PRN
+чилел	NOUN
+гьар	PRN
+вичин	PRN
+тум	NOUN
+авай	COP
+кьалар	NOUN
+,	PUNCT
+гьар	PRN
+вичин	PRN
+емиш	NOUN
+ва	CONJ
+емишдани	NOUN
+вичин	PRN
+цил	NOUN
+авай	COP
+тарар	NOUN
+ганва	VERB
+.	PUNCT
+
+Абур	PRN
+квез	PRN
+яз	COP
+хьурай	VERB
+.	PUNCT
+
+Аллагьдиз	NOUN
+вичи	PRN
+халкь	NOUN
+авур	VERB
+акуна	VERB
+.	PUNCT
+
+Няни	NOUN
+хьана	VERB
+,	PUNCT
+ахпа	ADV
+пакама	NOUN
+алукьна	VERB
+.	PUNCT
+
+Им	PRN
+ругуд	NUM
+лагьай	ORD
+югъ	NOUN
+тир	COP
+.	PUNCT
+
+Гьа	PRN
+цавни	NOUN
+чил	NOUN
+авай	COP
+халкь	NOUN
+авуна	VERB
+.	PUNCT
+
+Ирид	NUM
+лагьай	ORD
+югъ	NOUN
+алукьдалди	VERB
+Аллагьди	NOUN
+крар	NOUN
+авуна	VERB
+куьтягьна	VERB
+.	PUNCT
+
+Ада	PRN
+ирид	NUM
+лагьай	ORD
+юкъуз	NOUN
+ял	VERB
+.	PUNCT
+
+Итимдин	ADJ
+тӀвар	NOUN
+,	PUNCT
+дишегьлидин	NOUN
+тӀварни	NOUN
+Гьавани	NOUN
+тир	COP
+.	PUNCT
+
+Аниз	ADV
+ада	PRN
+вичи	PRN
+халкь	NOUN
+авур	VERB
+инсан	NOUN
+ахъайна	VERB
+.	PUNCT
+
+Дуьнья	NOUN
+халкь	NOUN
+авун	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+чна	PRN
+лагьана	VERB
+.	PUNCT
+
+Аллагь	NOUN
+буба	NOUN
+,	PUNCT
+Аллагь	NOUN
+Хва	NOUN
+ва	CONJ
+Аллагь	NOUN
+Пак	ADJ
+руьгь	NOUN
+.	PUNCT
+
+Гьавиляй	CONJ
+пайгъамбардин	NOUN
+сад	NUM
+лагьай	ORD
+ктабда	NOUN
+Аллагьди	NOUN
+инсан	NOUN
+халкьдайла	VERB
+,	PUNCT
+"	PUNCT
+Чна	PRN
+халкь	NOUN
+ийида	VERB
+лугьузва	VERB
+"	PUNCT
+.	PUNCT
+
+Аллагьди	NOUN
+абур	PRN
+женнетдай	NOUN
+чукурна	VERB
+.	PUNCT
+
+Ам	PRN
+хьайи	ADJ
+кар	NOUN
+я	COP
+.	PUNCT
+
+Аллагьди	NOUN
+абуруз	PRN
+,	PUNCT
+и	PRN
+къайда	NOUN
+чеб	PRN
+лагьанвай	VERB
+.	PUNCT
+
+Гьавади	NOUN
+жаваб	NOUN
+гана	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+чаз	PRN
+гьа	PRN
+тарцин	NOUN
+емишар	NOUN
+немир	VERB
+.	PUNCT
+
+Гъуьлягъдин	NOUN
+гьавани	NOUN
+тарциз	NOUN
+килигна	VERB
+.	PUNCT
+
+Тарцин	NOUN
+емишар	NOUN
+адаз	PRN
+хъсанбур	ADJ
+яз	COP
+акуна	VERB
+.	PUNCT
+
+Тарци	NOUN
+адан	PRN
+шадарзавай	VERB
+,	PUNCT
+адан	PRN
+темягь	NOUN
+тухузвай	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+Адамаз	NOUN
+лагьана	VERB
+.	PUNCT
+
+Вуна	PRN
+вун	PRN
+чилик	NOUN
+какахьдай	VERB
+йикъалди	NOUN
+гьекьедалди	NOUN
+къазанмишнавай	VERB
+фу	NOUN
+неда	VERB
+.	PUNCT
+
+Вун	PRN
+гьа	PRN
+чиликай	NOUN
+халкь	NOUN
+тир	COP
+.	PUNCT
+
+Абурувай	PRN
+мад	ADV
+иниз	ADV
+хквез	VERB
+хьанач	VERB
+.	PUNCT
+
+Гьавиляй	CONJ
+и	PRN
+абур	PRN
+икьван	ADV
+сефил	ADJ
+я	COP
+.	PUNCT
+
+Адан	PRN
+стха	NOUN
+лежбер	ADJ
+тир	COP
+.	PUNCT
+
+Садра	ADV
+Къабила	NOUN
+чилин	ADJ
+емишрикай	NOUN
+Аллагьдиз	NOUN
+савкьват	NOUN
+яз	COP
+тухвана	VERB
+.	PUNCT
+
+Аллагьдиз	NOUN
+савкьват	NOUN
+яз	COP
+вичин	PRN
+хъсан	ADJ
+тухвана	VERB
+.	PUNCT
+
+Аллагьди	NOUN
+адан	PRN
+къурбанд	NOUN
+кьабулна	VERB
+.	PUNCT
+
+Амма	CONJ
+адан	PRN
+къурбанд	NOUN
+кьабулнач	VERB
+.	PUNCT
+
+Адан	PRN
+чин	NOUN
+хьана	VERB
+.	PUNCT
+
+Гьа	PRN
+Аллагьди	NOUN
+лагьана	VERB
+.	PUNCT
+
+Вучиз	ADV
+вун	PRN
+дертлу	ADJ
+хьанва	VERB
+?	PUNCT
+
+Ам	PRN
+вичин	PRN
+стхадал	NOUN
+пехил	ADJ
+яз	COP
+амай	COP
+.	PUNCT
+
+Садра	ADV
+кьве	NUM
+стхани	NOUN
+чуьлда	NOUN
+авай	COP
+.	PUNCT
+
+Дуьньядал	NOUN
+сифте	ADJ
+яз	COP
+кьейи	ADJ
+касдин	NOUN
+ивиди	NOUN
+чил	NOUN
+яру	ADJ
+авуна	VERB
+.	PUNCT
+
+Дуьнья	NOUN
+халкь	NOUN
+авун	VERB
+.	PUNCT
+
+гзаф	ADV
+вахтар	NOUN
+алатна	VERB
+.	PUNCT
+
+Дуьньядал	NOUN
+Гьавадин	ADJ
+веледар	NOUN
+тир	COP
+гзаф	ADV
+инсанар	NOUN
+хьана	VERB
+.	PUNCT
+
+Адан	PRN
+тӀвар	NOUN
+тир	COP
+.	PUNCT
+
+Аллагьдиз	NOUN
+чилеллай	NOUN
+инсанар	NOUN
+рекьяй	POSTP
+акъатзавайди	VERB
+акуна	VERB
+.	PUNCT
+
+За	PRN
+абур	PRN
+халкь	NOUN
+хъсан	ADJ
+тир	COP
+.	PUNCT
+
+Аллагьди	NOUN
+адаз	PRN
+лагьана	VERB
+:	PUNCT
+за	PRN
+инсанар	NOUN
+терг	VERB
+авун	VERB
+кьетӀнава	VERB
+,	PUNCT
+вучиз	ADV
+лагьайтӀа	VERB
+чил	NOUN
+абуру	PRN
+авур	VERB
+кьван	NOUN
+крарив	NOUN
+ацІанва	VERB
+.	PUNCT
+
+Ингье	PART
+,	PUNCT
+за	PRN
+абур	PRN
+чилелай	NOUN
+терг	VERB
+ийида	VERB
+.	PUNCT
+
+Адан	PRN
+чкъене	NOUN
+кьилдин	ADJ
+хьтин	PART
+чкаяр	NOUN
+туькӀуьра	VERB
+.	PUNCT
+
+Ингье	PART
+,	PUNCT
+за	PRN
+дуьньядал	NOUN
+яд	ADJ
+акьалдарда	VERB
+.	PUNCT
+
+Чилел	NOUN
+алай	COP
+кьван	NOUN
+уьмуьрдикай	NOUN
+магьрум	ADJ
+жеда	VERB
+.	PUNCT
+
+Анжах	ADV
+за	PRN
+вахъ	PRN
+галаз	POSTP
+икьрар	NOUN
+кутӀунда	VERB
+.	PUNCT
+
+Вун	PRN
+гимида	NOUN
+акьахда	VERB
+.	PUNCT
+
+Вахъ	PRN
+галаз	POSTP
+аниз	ADV
+ви	PRN
+рухваяр	NOUN
+,	PUNCT
+ви	PRN
+паб	NOUN
+,	PUNCT
+ви	PRN
+рухвайрин	NOUN
+гьахьда	VERB
+.	PUNCT
+
+Ада	PRN
+инсанриз	NOUN
+и	PRN
+мукьвара	ADV
+яд	ADJ
+акьалтдайдакай	VERB
+ва	CONJ
+дуьнья	NOUN
+тергдайдакай	VERB
+хабар	NOUN
+гузвай	VERB
+.	PUNCT
+
+Амма	CONJ
+са	NUM
+касдини	NOUN
+яб	NOUN
+гузвачир	VERB
+.	PUNCT
+
+Дуьнья	NOUN
+халкь	NOUN
+авун	VERB
+.	PUNCT
+
+Дуьньядал	NOUN
+яд	ADJ
+акьалтун	VERB
+.	PUNCT
+
+Гими	NOUN
+хьайила	VERB
+,	PUNCT
+Аллагьди	NOUN
+лагьана	VERB
+:	PUNCT
+вун	PRN
+заз	PRN
+кас	NOUN
+акуна	VERB
+.	PUNCT
+
+Абур	PRN
+дишибур	ADJ
+хьурай	VERB
+.	PUNCT
+
+Вичиз	PRN
+Аллагьди	NOUN
+лагьайвал	VERB
+авуна	VERB
+.	PUNCT
+
+Гьеле	ADV
+чил	NOUN
+кьунвай	VERB
+.	PUNCT
+
+Лиф	NOUN
+элкъвена	ADV
+адан	PRN
+хтанач	VERB
+.	PUNCT
+
+Аллагь	NOUN
+гила	ADV
+инсанрихъ	NOUN
+галаз	POSTP
+яшамиш	VERB
+жеда	VERB
+.	PUNCT
+
+Аллагь	NOUN
+вич	PRN
+инсанрихъ	NOUN
+галаз	POSTP
+санал	ADV
+яшамиш	VERB
+жеда	VERB
+.	PUNCT
+
+Гимидиз	NOUN
+,	PUNCT
+адан	PRN
+паб	NOUN
+,	PUNCT
+рухваяр	NOUN
+Шам	NOUN
+,	PUNCT
+хам	NOUN
+,	PUNCT
+ва	CONJ
+абурун	PRN
+акьахна	VERB
+.	PUNCT
+
+Вичихъ	PRN
+галаз	POSTP
+гимидиз	NOUN
+ирид	NUM
+жуьт	NOUN
+михьи	ADJ
+ва	CONJ
+кьве	NUM
+жуьтни	NOUN
+мурдар	ADJ
+гьайванар	NOUN
+къачуна	VERB
+.	PUNCT
+
+Худади	NOUN
+гимидин	NOUN
+агална	VERB
+.	PUNCT
+
+Ирид	NUM
+юргъ	NOUN
+къвана	VERB
+.	PUNCT
+
+Чилел	NOUN
+гзаф	ADV
+хьайи	ADJ
+гими	NOUN
+хкажна	VERB
+ва	CONJ
+ам	PRN
+физ	VERB
+эгечӀна	VERB
+.	PUNCT
+
+Чилел	NOUN
+алай	COP
+кьван	NOUN
+чан	NOUN
+алай	COP
+терг	VERB
+хьана	VERB
+.	PUNCT
