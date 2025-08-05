@@ -40,13 +40,6 @@ Enter a sentence in the web form, e.g., _За мад геждач._ (translation
 
 See a list of word–POS tag pairs, e.g.:
 ![Example from web app](/meta/Screenshot%202025-08-05%20at%2016.21.08.png "Example from web app")
-За - PRN
-
-мад - ADV
-
-геждач - VERB
-
-. - PUNCT
 
 #### Requirements
 
