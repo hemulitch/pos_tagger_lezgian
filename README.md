@@ -39,7 +39,7 @@ docker run -p 8000:8000 pos_tagger_lezgian
 Enter a sentence in the web form, e.g., _За мад геждач._ (translation: "I won't be late again/anymore").
 
 See a list of word–POS tag pairs, e.g.:
-
+![Example from web app](/meta/Screenshot%202025-08-05%20at%2016.21.08.png "Example from web app")
 За - PRN
 
 мад - ADV
